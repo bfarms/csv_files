@@ -96,6 +96,7 @@ Job Id,Activity Name,Date Due,Date Completed,Property,Paddock,Job Status,Activit
 793799,Pix/Carbine,2019-06-22,None Set,Delta Ranch,D-01,To Do,Wayne Pricolo
 793794,Herbicide,2019-06-22,None Set,Hereford,H-22,To Do,Wayne Pricolo
 793791,Burn down,2019-06-22,None Set,Pick Anderson,P-15,To Do,Wayne Pricolo
+793780,Fungicide,None Set,2019-06-24,Delta Ranch,D-06,Complete,Alvaro Rualacava
 793780,Fungicide,2019-06-21,2019-06-23,Delta Ranch,D-06,Complete,Wayne Pricolo
 793589,1st cultivation,None Set,2019-06-21,Delta Ranch,D-09E Block #1,Complete,Gary Sousa
 793586,1st cultivation,None Set,2019-06-21,Delta Ranch,D-09E Block #2,Complete,Gary Sousa
@@ -220,8 +221,10 @@ Job Id,Activity Name,Date Due,Date Completed,Property,Paddock,Job Status,Activit
 792463,Lygus,2019-06-19,2019-06-19,Las Animas,L-33,Complete,Douglas Thiel
 792463,Lygus,2019-06-19,2019-06-19,Las Animas,L-31,Complete,Wayne Pricolo
 792463,Lygus,2019-06-19,2019-06-19,Las Animas,L-31,Complete,Douglas Thiel
-792415,Coragen,2019-06-20,None Set,Delta Ranch,D-14,To Do,Wayne Pricolo
-792415,Coragen,2019-06-20,None Set,Delta Ranch,D-12,To Do,Wayne Pricolo
+792415,Coragen,2019-06-20,2019-06-22,Delta Ranch,D-14,Complete,Wayne Pricolo
+792415,Coragen,2019-06-20,2019-06-22,Delta Ranch,D-14,Complete,Douglas Thiel
+792415,Coragen,2019-06-20,2019-06-22,Delta Ranch,D-12,Complete,Wayne Pricolo
+792415,Coragen,2019-06-20,2019-06-22,Delta Ranch,D-12,Complete,Douglas Thiel
 792409,Platinum,2019-06-20,None Set,Delta Ranch,D-17,To Do,Wayne Pricolo
 792398,Sulfur,2019-06-19,None Set,Delta Ranch,D-17,To Do,Wayne Pricolo
 792398,Sulfur,2019-06-19,None Set,Delta Ranch,D-14,To Do,Wayne Pricolo
@@ -229,8 +232,10 @@ Job Id,Activity Name,Date Due,Date Completed,Property,Paddock,Job Status,Activit
 792377,24 hr. Irrigation w/can-17,None Set,2019-06-19,Pick Anderson,P-17,In Progress,John Palazzo
 792376,Furrow Irrigation,None Set,2019-06-18,Pick Anderson,P-01W,In Progress,John Palazzo
 792375,Furrow Irrigation,None Set,2019-06-19,Pick Anderson,P-01E,Complete,John Palazzo
-792288,Dipel/Fertilizer,2019-06-20,None Set,Las Animas,L-02,To Do,Wayne Pricolo
-792288,Dipel/Fertilizer,2019-06-20,None Set,Las Animas,L-01,To Do,Wayne Pricolo
+792288,Dipel/Fertilizer,2019-06-20,2019-06-21,Las Animas,L-02,Complete,Wayne Pricolo
+792288,Dipel/Fertilizer,2019-06-20,2019-06-21,Las Animas,L-02,Complete,Douglas Thiel
+792288,Dipel/Fertilizer,2019-06-20,2019-06-21,Las Animas,L-01,Complete,Wayne Pricolo
+792288,Dipel/Fertilizer,2019-06-20,2019-06-21,Las Animas,L-01,Complete,Douglas Thiel
 792179,listing,None Set,2019-06-19,Pick Anderson,P-11,Complete,Gary Sousa
 791652,Sprinklers Irrigation 4hrs,None Set,2019-06-18,Las Animas,L-36 South,Complete,Jeronimo Torres Rosales
 791650,Sprinklers Irrigation 4hrs,None Set,2019-06-18,Las Animas,L-36 North,Complete,Jeronimo Torres Rosales
@@ -264,23 +269,40 @@ Job Id,Activity Name,Date Due,Date Completed,Property,Paddock,Job Status,Activit
 791550,4 hrs irr,None Set,2019-06-16,Pick Anderson,P-16E,Complete,Sergio De La Torre Gonzalez
 791486,Lygus/Pix,2019-06-19,None Set,Hereford,H-23,To Do,Wayne Pricolo
 791486,Lygus/Pix,2019-06-19,None Set,Delta Ranch,D-28,To Do,Wayne Pricolo
-790741,Coragen/Potassium Nitrate,2019-06-19,None Set,Pick Anderson,P-42,To Do,Wayne Pricolo
-790741,Coragen/Potassium Nitrate,2019-06-19,None Set,Pick Anderson,P-38,To Do,Wayne Pricolo
-790741,Coragen/Potassium Nitrate,2019-06-19,None Set,Pick Anderson,P-37,To Do,Wayne Pricolo
-790741,Coragen/Potassium Nitrate,2019-06-19,None Set,Pick Anderson,P-19,To Do,Wayne Pricolo
-790741,Coragen/Potassium Nitrate,2019-06-19,None Set,Pick Anderson,P-18,To Do,Wayne Pricolo
-790741,Coragen/Potassium Nitrate,2019-06-19,None Set,Pick Anderson,P-16W,To Do,Wayne Pricolo
-790741,Coragen/Potassium Nitrate,2019-06-19,None Set,Pick Anderson,P-16E,To Do,Wayne Pricolo
-790741,Coragen/Potassium Nitrate,2019-06-19,None Set,Pick Anderson,P-02,To Do,Wayne Pricolo
-790741,Coragen/Potassium Nitrate,2019-06-19,None Set,Las Animas,L-11,To Do,Wayne Pricolo
-790741,Coragen/Potassium Nitrate,2019-06-19,None Set,Las Animas,L-05,To Do,Wayne Pricolo
-790741,Coragen/Potassium Nitrate,2019-06-19,None Set,Las Animas,L-03,To Do,Wayne Pricolo
-790741,Coragen/Potassium Nitrate,2019-06-19,None Set,Kreyenhagen,K-06,To Do,Wayne Pricolo
-790741,Coragen/Potassium Nitrate,2019-06-19,None Set,Delta Ranch,D-26,To Do,Wayne Pricolo
-790741,Coragen/Potassium Nitrate,2019-06-19,None Set,Delta Ranch,D-11,To Do,Wayne Pricolo
-790741,Coragen/Potassium Nitrate,2019-06-19,None Set,Delta Ranch,D-05S,To Do,Wayne Pricolo
-790741,Coragen/Potassium Nitrate,2019-06-19,None Set,Delta Ranch,D-02,To Do,Wayne Pricolo
-790653,Foliar Fertilizer #2,2019-06-19,None Set,Las Animas,L-07W,To Do,Wayne Pricolo
+790741,Coragen/Potassium Nitrate,2019-06-19,2019-06-22,Pick Anderson,P-42,Complete,Wayne Pricolo
+790741,Coragen/Potassium Nitrate,2019-06-19,2019-06-22,Pick Anderson,P-42,Complete,Douglas Thiel
+790741,Coragen/Potassium Nitrate,2019-06-19,2019-06-22,Pick Anderson,P-38,Complete,Wayne Pricolo
+790741,Coragen/Potassium Nitrate,2019-06-19,2019-06-22,Pick Anderson,P-38,Complete,Douglas Thiel
+790741,Coragen/Potassium Nitrate,2019-06-19,2019-06-22,Pick Anderson,P-37,Complete,Wayne Pricolo
+790741,Coragen/Potassium Nitrate,2019-06-19,2019-06-22,Pick Anderson,P-37,Complete,Douglas Thiel
+790741,Coragen/Potassium Nitrate,2019-06-19,2019-06-22,Pick Anderson,P-19,Complete,Wayne Pricolo
+790741,Coragen/Potassium Nitrate,2019-06-19,2019-06-22,Pick Anderson,P-19,Complete,Douglas Thiel
+790741,Coragen/Potassium Nitrate,2019-06-19,2019-06-22,Pick Anderson,P-18,Complete,Wayne Pricolo
+790741,Coragen/Potassium Nitrate,2019-06-19,2019-06-22,Pick Anderson,P-18,Complete,Douglas Thiel
+790741,Coragen/Potassium Nitrate,2019-06-19,2019-06-22,Pick Anderson,P-16W,Complete,Wayne Pricolo
+790741,Coragen/Potassium Nitrate,2019-06-19,2019-06-22,Pick Anderson,P-16W,Complete,Douglas Thiel
+790741,Coragen/Potassium Nitrate,2019-06-19,2019-06-22,Pick Anderson,P-16E,Complete,Wayne Pricolo
+790741,Coragen/Potassium Nitrate,2019-06-19,2019-06-22,Pick Anderson,P-16E,Complete,Douglas Thiel
+790741,Coragen/Potassium Nitrate,2019-06-19,2019-06-22,Pick Anderson,P-02,Complete,Wayne Pricolo
+790741,Coragen/Potassium Nitrate,2019-06-19,2019-06-22,Pick Anderson,P-02,Complete,Douglas Thiel
+790741,Coragen/Potassium Nitrate,2019-06-19,2019-06-22,Las Animas,L-11,Complete,Wayne Pricolo
+790741,Coragen/Potassium Nitrate,2019-06-19,2019-06-22,Las Animas,L-11,Complete,Douglas Thiel
+790741,Coragen/Potassium Nitrate,2019-06-19,2019-06-22,Las Animas,L-05,Complete,Wayne Pricolo
+790741,Coragen/Potassium Nitrate,2019-06-19,2019-06-22,Las Animas,L-05,Complete,Douglas Thiel
+790741,Coragen/Potassium Nitrate,2019-06-19,2019-06-22,Las Animas,L-03,Complete,Wayne Pricolo
+790741,Coragen/Potassium Nitrate,2019-06-19,2019-06-22,Las Animas,L-03,Complete,Douglas Thiel
+790741,Coragen/Potassium Nitrate,2019-06-19,2019-06-22,Kreyenhagen,K-06,Complete,Wayne Pricolo
+790741,Coragen/Potassium Nitrate,2019-06-19,2019-06-22,Kreyenhagen,K-06,Complete,Douglas Thiel
+790741,Coragen/Potassium Nitrate,2019-06-19,2019-06-22,Delta Ranch,D-26,Complete,Wayne Pricolo
+790741,Coragen/Potassium Nitrate,2019-06-19,2019-06-22,Delta Ranch,D-26,Complete,Douglas Thiel
+790741,Coragen/Potassium Nitrate,2019-06-19,2019-06-22,Delta Ranch,D-11,Complete,Wayne Pricolo
+790741,Coragen/Potassium Nitrate,2019-06-19,2019-06-22,Delta Ranch,D-11,Complete,Douglas Thiel
+790741,Coragen/Potassium Nitrate,2019-06-19,2019-06-22,Delta Ranch,D-05S,Complete,Wayne Pricolo
+790741,Coragen/Potassium Nitrate,2019-06-19,2019-06-22,Delta Ranch,D-05S,Complete,Douglas Thiel
+790741,Coragen/Potassium Nitrate,2019-06-19,2019-06-22,Delta Ranch,D-02,Complete,Wayne Pricolo
+790741,Coragen/Potassium Nitrate,2019-06-19,2019-06-22,Delta Ranch,D-02,Complete,Douglas Thiel
+790653,Foliar Fertilizer #2,2019-06-19,2019-06-21,Las Animas,L-07W,Complete,Wayne Pricolo
+790653,Foliar Fertilizer #2,2019-06-19,2019-06-21,Las Animas,L-07W,Complete,Douglas Thiel
 790637,Round up,None Set,2019-06-20,Hereford,H-02,Complete,Ricardo Ruvalcaba
 790637,Round up,2019-06-19,2019-06-20,Hereford,H-02,Complete,Wayne Pricolo
 790627,Round Up,None Set,2019-06-23,Las Animas,L-32,Complete,Ricardo Ruvalcaba

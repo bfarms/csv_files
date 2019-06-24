@@ -6,11 +6,11 @@ Deep Well W-02,In Progress,6,35.29
 Delta Ranch D-01,Complete,20,76.92
 Delta Ranch D-01,In Progress,1,3.846
 Delta Ranch D-01,To Do,5,19.23
-Delta Ranch D-02,Complete,47,81.03
-Delta Ranch D-02,Discarded,3,5.172
-Delta Ranch D-02,In Progress,2,3.448
-Delta Ranch D-02,Partially Complete,2,3.448
-Delta Ranch D-02,To Do,4,6.896
+Delta Ranch D-02,Complete,49,83.05
+Delta Ranch D-02,Discarded,3,5.084
+Delta Ranch D-02,In Progress,2,3.389
+Delta Ranch D-02,Partially Complete,2,3.389
+Delta Ranch D-02,To Do,3,5.084
 Delta Ranch D-03,Complete,17,70.83
 Delta Ranch D-03,Discarded,1,4.166
 Delta Ranch D-03,In Progress,1,4.166
@@ -18,14 +18,14 @@ Delta Ranch D-03,To Do,5,20.83
 Delta Ranch D-05N,Complete,12,75.0
 Delta Ranch D-05N,Discarded,3,18.75
 Delta Ranch D-05N,To Do,1,6.25
-Delta Ranch D-05S,Complete,37,84.09
-Delta Ranch D-05S,Discarded,3,6.818
-Delta Ranch D-05S,Partially Complete,2,4.545
-Delta Ranch D-05S,To Do,2,4.545
+Delta Ranch D-05S,Complete,39,86.66
+Delta Ranch D-05S,Discarded,3,6.666
+Delta Ranch D-05S,Partially Complete,2,4.444
+Delta Ranch D-05S,To Do,1,2.222
 Delta Ranch D-05,Complete,1,50.0
 Delta Ranch D-05,To Do,1,50.0
-Delta Ranch D-06,Complete,25,92.59
-Delta Ranch D-06,To Do,2,7.407
+Delta Ranch D-06,Complete,26,92.85
+Delta Ranch D-06,To Do,2,7.142
 Delta Ranch D-07,Complete,12,85.71
 Delta Ranch D-07,Discarded,1,7.142
 Delta Ranch D-07,To Do,1,7.142
@@ -38,17 +38,17 @@ Delta Ranch D-09W,Complete,15,93.75
 Delta Ranch D-09W,Discarded,1,6.25
 Delta Ranch D-10,Complete,17,89.47
 Delta Ranch D-10,To Do,2,10.52
-Delta Ranch D-11,Complete,42,84.0
-Delta Ranch D-11,Discarded,2,4.0
-Delta Ranch D-11,Partially Complete,1,2.0
-Delta Ranch D-11,To Do,5,10.0
-Delta Ranch D-12,Complete,44,89.79
-Delta Ranch D-12,To Do,5,10.20
+Delta Ranch D-11,Complete,44,86.27
+Delta Ranch D-11,Discarded,2,3.921
+Delta Ranch D-11,Partially Complete,1,1.960
+Delta Ranch D-11,To Do,4,7.843
+Delta Ranch D-12,Complete,46,92.0
+Delta Ranch D-12,To Do,4,8.0
 Delta Ranch D-13,Complete,8,72.72
 Delta Ranch D-13,In Progress,1,9.090
 Delta Ranch D-13,To Do,2,18.18
-Delta Ranch D-14,Complete,43,91.48
-Delta Ranch D-14,To Do,4,8.510
+Delta Ranch D-14,Complete,45,93.75
+Delta Ranch D-14,To Do,3,6.25
 Delta Ranch D-15,Complete,21,80.76
 Delta Ranch D-15,To Do,5,19.23
 Delta Ranch D-17,Complete,15,68.18
@@ -129,10 +129,10 @@ Delta Ranch D-19 Block #9,To Do,4,23.52
 Delta Ranch D-23,Complete,10,100.0
 Delta Ranch D-24,Complete,9,100.0
 Delta Ranch D-25N,Complete,1,100.0
-Delta Ranch D-26,Complete,40,85.10
-Delta Ranch D-26,Discarded,2,4.255
-Delta Ranch D-26,Partially Complete,2,4.255
-Delta Ranch D-26,To Do,3,6.382
+Delta Ranch D-26,Complete,42,87.5
+Delta Ranch D-26,Discarded,2,4.166
+Delta Ranch D-26,Partially Complete,2,4.166
+Delta Ranch D-26,To Do,2,4.166
 Delta Ranch D-27,Complete,4,66.66
 Delta Ranch D-27,In Progress,1,16.66
 Delta Ranch D-27,To Do,1,16.66
@@ -258,29 +258,29 @@ Kreyenhagen K-04,To Do,4,22.22
 Kreyenhagen K-05,Complete,20,71.42
 Kreyenhagen K-05,Discarded,2,7.142
 Kreyenhagen K-05,To Do,6,21.42
-Kreyenhagen K-06,Complete,41,80.39
-Kreyenhagen K-06,Discarded,2,3.921
-Kreyenhagen K-06,In Progress,2,3.921
-Kreyenhagen K-06,Partially Complete,2,3.921
-Kreyenhagen K-06,To Do,4,7.843
+Kreyenhagen K-06,Complete,43,82.69
+Kreyenhagen K-06,Discarded,2,3.846
+Kreyenhagen K-06,In Progress,2,3.846
+Kreyenhagen K-06,Partially Complete,2,3.846
+Kreyenhagen K-06,To Do,3,5.769
 Kreyenhagen K-07,Complete,18,75.0
 Kreyenhagen K-07,In Progress,1,4.166
 Kreyenhagen K-07,To Do,5,20.83
-Las Animas L-01,Complete,31,86.11
-Las Animas L-01,Discarded,2,5.555
-Las Animas L-01,To Do,3,8.333
-Las Animas L-02,Complete,30,88.23
-Las Animas L-02,Discarded,2,5.882
-Las Animas L-02,To Do,2,5.882
-Las Animas L-03,Complete,34,82.92
-Las Animas L-03,In Progress,2,4.878
-Las Animas L-03,To Do,5,12.19
+Las Animas L-01,Complete,33,89.18
+Las Animas L-01,Discarded,2,5.405
+Las Animas L-01,To Do,2,5.405
+Las Animas L-02,Complete,32,91.42
+Las Animas L-02,Discarded,2,5.714
+Las Animas L-02,To Do,1,2.857
+Las Animas L-03,Complete,36,85.71
+Las Animas L-03,In Progress,2,4.761
+Las Animas L-03,To Do,4,9.523
 Las Animas L-04,Complete,35,89.74
 Las Animas L-04,Discarded,1,2.564
 Las Animas L-04,To Do,3,7.692
-Las Animas L-05,Complete,33,84.61
-Las Animas L-05,In Progress,2,5.128
-Las Animas L-05,To Do,4,10.25
+Las Animas L-05,Complete,35,87.5
+Las Animas L-05,In Progress,2,5.0
+Las Animas L-05,To Do,3,7.5
 Las Animas L-06,Complete,30,85.71
 Las Animas L-06,In Progress,2,5.714
 Las Animas L-06,To Do,3,8.571
@@ -290,14 +290,14 @@ Las Animas L-07E-South,Complete,18,94.73
 Las Animas L-07E-South,In Progress,1,5.263
 Las Animas L-07EN Center,Complete,14,82.35
 Las Animas L-07EN Center,To Do,3,17.64
-Las Animas L-07W,Complete,12,85.71
-Las Animas L-07W,To Do,2,14.28
+Las Animas L-07W,Complete,14,93.33
+Las Animas L-07W,To Do,1,6.666
 Las Animas L-09,Complete,34,89.47
 Las Animas L-09,In Progress,1,2.631
 Las Animas L-09,To Do,3,7.894
 Las Animas L-10,Complete,9,100.0
-Las Animas L-11,Complete,34,91.89
-Las Animas L-11,To Do,3,8.108
+Las Animas L-11,Complete,36,94.73
+Las Animas L-11,To Do,2,5.263
 Las Animas L-20,Complete,11,84.61
 Las Animas L-20,In Progress,2,15.38
 Las Animas L-21,Complete,13,86.66
@@ -370,10 +370,10 @@ Pick Anderson P-01E,To Do,1,5.263
 Pick Anderson P-01W,Complete,15,83.33
 Pick Anderson P-01W,In Progress,2,11.11
 Pick Anderson P-01W,To Do,1,5.555
-Pick Anderson P-02,Complete,35,81.39
-Pick Anderson P-02,In Progress,2,4.651
-Pick Anderson P-02,Partially Complete,2,4.651
-Pick Anderson P-02,To Do,4,9.302
+Pick Anderson P-02,Complete,37,84.09
+Pick Anderson P-02,In Progress,2,4.545
+Pick Anderson P-02,Partially Complete,2,4.545
+Pick Anderson P-02,To Do,3,6.818
 Pick Anderson P-03,Complete,12,66.66
 Pick Anderson P-03,To Do,6,33.33
 Pick Anderson P-04,Complete,10,62.5
@@ -410,23 +410,23 @@ Pick Anderson P-14W,To Do,2,4.444
 Pick Anderson P-15,Complete,34,94.44
 Pick Anderson P-15,Discarded,1,2.777
 Pick Anderson P-15,To Do,1,2.777
-Pick Anderson P-16E,Complete,29,85.29
-Pick Anderson P-16E,To Do,5,14.70
-Pick Anderson P-16W,Complete,36,83.72
-Pick Anderson P-16W,Discarded,2,4.651
-Pick Anderson P-16W,In Progress,1,2.325
-Pick Anderson P-16W,Partially Complete,2,4.651
-Pick Anderson P-16W,To Do,2,4.651
+Pick Anderson P-16E,Complete,31,88.57
+Pick Anderson P-16E,To Do,4,11.42
+Pick Anderson P-16W,Complete,38,86.36
+Pick Anderson P-16W,Discarded,2,4.545
+Pick Anderson P-16W,In Progress,1,2.272
+Pick Anderson P-16W,Partially Complete,2,4.545
+Pick Anderson P-16W,To Do,1,2.272
 Pick Anderson P-17,Complete,31,88.57
 Pick Anderson P-17,In Progress,3,8.571
 Pick Anderson P-17,To Do,1,2.857
-Pick Anderson P-18,Complete,38,86.36
-Pick Anderson P-18,Discarded,2,4.545
-Pick Anderson P-18,Partially Complete,2,4.545
-Pick Anderson P-18,To Do,2,4.545
-Pick Anderson P-19,Complete,31,81.57
-Pick Anderson P-19,In Progress,2,5.263
-Pick Anderson P-19,To Do,5,13.15
+Pick Anderson P-18,Complete,40,88.88
+Pick Anderson P-18,Discarded,2,4.444
+Pick Anderson P-18,Partially Complete,2,4.444
+Pick Anderson P-18,To Do,1,2.222
+Pick Anderson P-19,Complete,33,84.61
+Pick Anderson P-19,In Progress,2,5.128
+Pick Anderson P-19,To Do,4,10.25
 Pick Anderson P-20,Complete,13,92.85
 Pick Anderson P-20,To Do,1,7.142
 Pick Anderson P-21,Complete,14,93.33
@@ -464,11 +464,11 @@ Pick Anderson P-35,Complete,6,85.71
 Pick Anderson P-35,Discarded,1,14.28
 Pick Anderson P-36,Complete,7,87.5
 Pick Anderson P-36,Discarded,1,12.5
-Pick Anderson P-37,Complete,36,85.71
-Pick Anderson P-37,To Do,6,14.28
-Pick Anderson P-38,Complete,35,83.33
-Pick Anderson P-38,In Progress,2,4.761
-Pick Anderson P-38,To Do,5,11.90
+Pick Anderson P-37,Complete,38,88.37
+Pick Anderson P-37,To Do,5,11.62
+Pick Anderson P-38,Complete,37,86.04
+Pick Anderson P-38,In Progress,2,4.651
+Pick Anderson P-38,To Do,4,9.302
 Pick Anderson P-39,Complete,5,100.0
 Pick Anderson P-40,Complete,22,81.48
 Pick Anderson P-40,Discarded,1,3.703
@@ -478,9 +478,9 @@ Pick Anderson P-41,Complete,23,82.14
 Pick Anderson P-41,Discarded,1,3.571
 Pick Anderson P-41,Partially Complete,1,3.571
 Pick Anderson P-41,To Do,3,10.71
-Pick Anderson P-42,Complete,34,79.06
-Pick Anderson P-42,In Progress,4,9.302
-Pick Anderson P-42,To Do,5,11.62
+Pick Anderson P-42,Complete,36,81.81
+Pick Anderson P-42,In Progress,4,9.090
+Pick Anderson P-42,To Do,4,9.090
 Pick Anderson P-43,Complete,15,88.23
 Pick Anderson P-43,In Progress,1,5.882
 Pick Anderson P-43,To Do,1,5.882

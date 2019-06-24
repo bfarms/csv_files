@@ -1,4 +1,41 @@
 Job Id,Activity Name,Date Due,Date Completed,Property,Paddock,Job Status,Activity Author
+794618,Furrow Irrigation,None Set,2019-06-22,Lone Tree,T-12,Complete,Alvaro Rualacava
+794617,Tomato 12hr drip no fert,None Set,2019-06-24,Las Animas,L-11,Complete,Alvaro Rualacava
+794613,Tomato 12hr drip no fert,None Set,2019-06-23,Las Animas,L-09,Complete,Alvaro Rualacava
+794611,Tomato 12hr drip no fert,None Set,2019-06-24,Las Animas,L-06,Complete,Alvaro Rualacava
+794611,Tomato 12hr drip no fert,None Set,2019-06-24,Las Animas,L-05,Complete,Alvaro Rualacava
+794610,Tomato 12hr drip no fert,None Set,2019-06-23,Las Animas,L-03,Complete,Alvaro Rualacava
+794607,Tomato 12hr drip no fert,None Set,2019-06-24,Las Animas,L-02,Complete,Alvaro Rualacava
+794605,Tomato 12hr drip no fert,None Set,2019-06-23,Las Animas,L-01,Complete,Alvaro Rualacava
+794602,Tomato 12hr drip no fert,None Set,2019-06-24,Delta Ranch,D-17,Complete,Alvaro Rualacava
+794602,Tomato 12hr drip no fert,None Set,2019-06-24,Delta Ranch,D-14,Complete,Alvaro Rualacava
+794602,Tomato 12hr drip no fert,None Set,2019-06-24,Delta Ranch,D-12,Complete,Alvaro Rualacava
+794600,Watermelon 4 hr no fert,None Set,2019-06-23,Delta Ranch,D-09W,Complete,Alvaro Rualacava
+794600,Watermelon 4 hr no fert,None Set,2019-06-23,Delta Ranch,D-09E Block #2,Complete,Alvaro Rualacava
+794600,Watermelon 4 hr no fert,None Set,2019-06-23,Delta Ranch,D-09E Block #1,Complete,Alvaro Rualacava
+794598,Watermelon 4 hr no fert,None Set,2019-06-23,Delta Ranch,D-18 Block #11,Complete,Alvaro Rualacava
+794597,Watermelon 8-hr no fert,None Set,2019-06-23,Delta Ranch,D-19 Block #3,Complete,Alvaro Rualacava
+794597,Watermelon 8-hr no fert,None Set,2019-06-23,Delta Ranch,D-19 Block #2,Complete,Alvaro Rualacava
+794597,Watermelon 8-hr no fert,None Set,2019-06-23,Delta Ranch,D-19 Block #1,Complete,Alvaro Rualacava
+794597,Watermelon 8-hr no fert,None Set,2019-06-23,Delta Ranch,D-18 Block #3,Complete,Alvaro Rualacava
+794597,Watermelon 8-hr no fert,None Set,2019-06-23,Delta Ranch,D-18 Block #2,Complete,Alvaro Rualacava
+794597,Watermelon 8-hr no fert,None Set,2019-06-23,Delta Ranch,D-18 Block #1,Complete,Alvaro Rualacava
+794576,12 hrs irr,None Set,2019-06-23,Pick Anderson,P-41,Complete,Sergio De La Torre Gonzalez
+794576,12 hrs irr,None Set,2019-06-23,Pick Anderson,P-40,Complete,Sergio De La Torre Gonzalez
+794575,12 hrs irr,None Set,2019-06-22,Pick Anderson,P-42,Complete,Sergio De La Torre Gonzalez
+794575,12 hrs irr,None Set,2019-06-22,Pick Anderson,P-02,Complete,Sergio De La Torre Gonzalez
+794574,12 hrs irr,None Set,2019-06-22,Pick Anderson,P-38,Complete,Sergio De La Torre Gonzalez
+794574,12 hrs irr,None Set,2019-06-22,Pick Anderson,P-37,Complete,Sergio De La Torre Gonzalez
+794573,12 hrs irr,None Set,2019-06-21,Pick Anderson,P-42,Complete,Sergio De La Torre Gonzalez
+794573,12 hrs irr,None Set,2019-06-21,Pick Anderson,P-02,Complete,Sergio De La Torre Gonzalez
+794572,12 hrs irr,None Set,2019-06-21,Pick Anderson,P-38,Complete,Sergio De La Torre Gonzalez
+794572,12 hrs irr,None Set,2019-06-21,Pick Anderson,P-37,Complete,Sergio De La Torre Gonzalez
+794571,12 hrs irr,None Set,2019-06-20,Pick Anderson,P-41,Complete,Sergio De La Torre Gonzalez
+794571,12 hrs irr,None Set,2019-06-20,Pick Anderson,P-40,Complete,Sergio De La Torre Gonzalez
+794570,24 hrs irr,None Set,2019-06-22,Pick Anderson,P-17,Complete,Sergio De La Torre Gonzalez
+794569,24 hrs irr,None Set,2019-06-23,Pick Anderson,P-13E,Complete,Sergio De La Torre Gonzalez
+794568,12 hrs irr,None Set,2019-06-22,Pick Anderson,P-13W,Complete,Sergio De La Torre Gonzalez
+794568,12 hrs irr,None Set,2019-06-22,Pick Anderson,P-12,Complete,Sergio De La Torre Gonzalez
 794540,Cotton flood irrigation  gated pipe,None Set,2019-06-23,Delta Ranch,D-01,Complete,Uli Urenda Sanchez
 794458,Furrow Irrigation,None Set,2019-06-22,Las Animas,L-33,Complete,Alvaro Rualacava
 794457,Furrow Irrigation,None Set,2019-06-22,Las Animas,L-20,Complete,Alvaro Rualacava
@@ -59,7 +96,7 @@ Job Id,Activity Name,Date Due,Date Completed,Property,Paddock,Job Status,Activit
 793799,Pix/Carbine,2019-06-22,None Set,Delta Ranch,D-01,To Do,Wayne Pricolo
 793794,Herbicide,2019-06-22,None Set,Hereford,H-22,To Do,Wayne Pricolo
 793791,Burn down,2019-06-22,None Set,Pick Anderson,P-15,To Do,Wayne Pricolo
-793780,Fungicide,2019-06-21,None Set,Delta Ranch,D-06,To Do,Wayne Pricolo
+793780,Fungicide,2019-06-21,2019-06-23,Delta Ranch,D-06,Complete,Wayne Pricolo
 793589,1st cultivation,None Set,2019-06-21,Delta Ranch,D-09E Block #1,Complete,Gary Sousa
 793586,1st cultivation,None Set,2019-06-21,Delta Ranch,D-09E Block #2,Complete,Gary Sousa
 793584,Listing,None Set,2019-06-21,Elbon,E-07,Complete,Gary Sousa

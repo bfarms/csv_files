@@ -1,4 +1,426 @@
 Job Id,Activity Name,Date Due,Date Completed,Property,Paddock,Job Status,Activity Author
+800379,Tomato 12hr drip no fert,None Set,2019-06-30,Delta Ranch,D-17,Complete,Alvaro Rualacava
+800379,Tomato 12hr drip no fert,None Set,2019-06-30,Delta Ranch,D-07,Complete,Alvaro Rualacava
+799922,Pix/Carbine,2019-07-02,None Set,Pick Anderson,P-01W,To Do,Wayne Pricolo
+799922,Pix/Carbine,2019-07-02,None Set,Pick Anderson,P-01E,To Do,Wayne Pricolo
+799856,Pix/Carbine,2019-07-01,None Set,Lone Tree,T-09,To Do,Wayne Pricolo
+799749,Corn 48 hr no fert,None Set,2019-06-30,Deep Well,W-02,Complete,Alvaro Rualacava
+799749,Corn 48 hr no fert,None Set,2019-06-30,Deep Well,W-01,Complete,Alvaro Rualacava
+799748,Furrow Irrigation,None Set,2019-07-01,Delta Ranch,D-24,Complete,Alvaro Rualacava
+799747,Furrow Irrigation- Gated Pipe,None Set,2019-06-29,Lone Tree,T-06,Complete,Alvaro Rualacava
+799746,Tomato 12hr drip no fert,None Set,2019-07-01,Las Animas,L-06,Complete,Alvaro Rualacava
+799746,Tomato 12hr drip no fert,None Set,2019-07-01,Las Animas,L-05,Complete,Alvaro Rualacava
+799745,Tomato 12hr KTS,None Set,2019-06-28,Las Animas,L-06,Complete,Alvaro Rualacava
+799745,Tomato 12hr KTS,None Set,2019-06-28,Las Animas,L-05,Complete,Alvaro Rualacava
+799744,Tomato 12hr drip no fert,None Set,2019-06-27,Las Animas,L-06,Complete,Alvaro Rualacava
+799744,Tomato 12hr drip no fert,None Set,2019-06-27,Las Animas,L-05,Complete,Alvaro Rualacava
+799743,Tomato 12hr CAN17,None Set,2019-06-25,Las Animas,L-06,Complete,Alvaro Rualacava
+799743,Tomato 12hr CAN17,None Set,2019-06-25,Las Animas,L-05,Complete,Alvaro Rualacava
+799742,Tomato 12hr drip no fert,None Set,2019-06-30,Las Animas,L-04,Complete,Alvaro Rualacava
+799739,Tomato 12hr 10g/a 0-0-12,None Set,2019-06-27,Las Animas,L-04,Complete,Alvaro Rualacava
+799738,Tomato 12hr drip no fert,None Set,2019-06-26,Las Animas,L-04,Complete,Alvaro Rualacava
+799737,Tomato 12hr drip no fert,None Set,2019-06-30,Las Animas,L-03,Complete,Alvaro Rualacava
+799736,Tomato 12hr KTS,None Set,2019-06-28,Las Animas,L-03,Complete,Alvaro Rualacava
+799735,Tomato 12hr drip no fert,None Set,2019-06-26,Las Animas,L-03,Complete,Alvaro Rualacava
+799734,Tomato 12hr KTS,None Set,2019-06-29,Las Animas,L-11,Complete,Alvaro Rualacava
+799733,Tomato 12hr drip no fert,None Set,2019-06-28,Las Animas,L-11,Complete,Alvaro Rualacava
+799731,Tomato 12hr CAN17,None Set,2019-06-25,Las Animas,L-11,Complete,Alvaro Rualacava
+799730,Tomato 12hr KTS,None Set,2019-06-30,Las Animas,L-09,Complete,Alvaro Rualacava
+799729,Tomato 12hr drip no fert,None Set,2019-06-27,Las Animas,L-09,Complete,Alvaro Rualacava
+799728,Tomato 12hr CAN17,None Set,2019-06-26,Las Animas,L-09,Complete,Alvaro Rualacava
+799727,Tomato 12hr drip no fert,None Set,2019-07-01,Delta Ranch,D-13,Complete,Alvaro Rualacava
+799726,Tomato 12hr drip no fert,None Set,2019-07-01,Delta Ranch,D-12,Complete,Alvaro Rualacava
+799725,Watermelon 4  hr no fert,None Set,2019-06-30,Delta Ranch,D-19 Block #9,Complete,Alvaro Rualacava
+799725,Watermelon 4  hr no fert,None Set,2019-06-30,Delta Ranch,D-19 Block #8,Complete,Alvaro Rualacava
+799725,Watermelon 4  hr no fert,None Set,2019-06-30,Delta Ranch,D-19 Block #10,Complete,Alvaro Rualacava
+799725,Watermelon 4  hr no fert,None Set,2019-06-30,Delta Ranch,D-18 Block #9,Complete,Alvaro Rualacava
+799725,Watermelon 4  hr no fert,None Set,2019-06-30,Delta Ranch,D-18 Block  #8,Complete,Alvaro Rualacava
+799725,Watermelon 4  hr no fert,None Set,2019-06-30,Delta Ranch,D-18 Block #10,Complete,Alvaro Rualacava
+799724,Watermelon 8 hr no fert,None Set,2019-06-30,Delta Ranch,D-19 Block #7,Complete,Alvaro Rualacava
+799724,Watermelon 8 hr no fert,None Set,2019-06-30,Delta Ranch,D-19 Block #6,Complete,Alvaro Rualacava
+799724,Watermelon 8 hr no fert,None Set,2019-06-30,Delta Ranch,D-19 Block #5,Complete,Alvaro Rualacava
+799724,Watermelon 8 hr no fert,None Set,2019-06-30,Delta Ranch,D-19 Block #4,Complete,Alvaro Rualacava
+799724,Watermelon 8 hr no fert,None Set,2019-06-30,Delta Ranch,D-18 Block #7,Complete,Alvaro Rualacava
+799724,Watermelon 8 hr no fert,None Set,2019-06-30,Delta Ranch,D-18 Block #6,Complete,Alvaro Rualacava
+799724,Watermelon 8 hr no fert,None Set,2019-06-30,Delta Ranch,D-18 Block #5,Complete,Alvaro Rualacava
+799724,Watermelon 8 hr no fert,None Set,2019-06-30,Delta Ranch,D-18 Block #4,Complete,Alvaro Rualacava
+799722,Watermelon 4 hr no fert,None Set,2019-06-29,Delta Ranch,D-09W,Complete,Alvaro Rualacava
+799722,Watermelon 4 hr no fert,None Set,2019-06-29,Delta Ranch,D-09E Block #2,Complete,Alvaro Rualacava
+799722,Watermelon 4 hr no fert,None Set,2019-06-29,Delta Ranch,D-09E Block #1,Complete,Alvaro Rualacava
+799721,Watermelon 4 hr no fert,None Set,2019-06-29,Delta Ranch,D-19 Block #11,Complete,Alvaro Rualacava
+799721,Watermelon 4 hr no fert,None Set,2019-06-29,Delta Ranch,D-19 Block #10,Complete,Alvaro Rualacava
+799721,Watermelon 4 hr no fert,None Set,2019-06-29,Delta Ranch,D-18 Block #12,Complete,Alvaro Rualacava
+799721,Watermelon 4 hr no fert,None Set,2019-06-29,Delta Ranch,D-18 Block #11,Complete,Alvaro Rualacava
+799720,Watermelon 8 hr no fert,None Set,2019-06-29,Delta Ranch,D-19 Block #3,Complete,Alvaro Rualacava
+799720,Watermelon 8 hr no fert,None Set,2019-06-29,Delta Ranch,D-19 Block #2,Complete,Alvaro Rualacava
+799720,Watermelon 8 hr no fert,None Set,2019-06-29,Delta Ranch,D-19 Block #1,Complete,Alvaro Rualacava
+799720,Watermelon 8 hr no fert,None Set,2019-06-29,Delta Ranch,D-18 Block #3,Complete,Alvaro Rualacava
+799720,Watermelon 8 hr no fert,None Set,2019-06-29,Delta Ranch,D-18 Block #2,Complete,Alvaro Rualacava
+799720,Watermelon 8 hr no fert,None Set,2019-06-29,Delta Ranch,D-18 Block #1,Complete,Alvaro Rualacava
+799719,Tomato 12hr drip no fert,None Set,2019-07-01,Las Animas,L-02,Complete,Alvaro Rualacava
+799709,Tomato 12 hour ferticell 2g/a 0-0-6,None Set,2019-06-29,Las Animas,L-02,Complete,Alvaro Rualacava
+799708,Tomato 12hr drip no fert,None Set,2019-06-27,Las Animas,L-02,Complete,Alvaro Rualacava
+799707,Tomato 12 hour ferticell 10gal/ac,None Set,2019-06-26,Las Animas,L-02,Complete,Alvaro Rualacava
+799706,Tomato 12hr drip no fert,None Set,2019-06-30,Las Animas,L-01,Complete,Alvaro Rualacava
+799705,Tomato 12 hour ferticell 2g/a 0-0-6,None Set,2019-06-29,Las Animas,L-01,Complete,Alvaro Rualacava
+799704,Tomato 12hr drip no fert,None Set,2019-06-27,Las Animas,L-01,Complete,Alvaro Rualacava
+799703,Tomato 12 hour ferticell 10gal/ac,None Set,2019-06-25,Las Animas,L-01,Complete,Alvaro Rualacava
+799702,Furrow Irrigation,None Set,2019-06-29,Las Animas,L-20,Complete,Alvaro Rualacava
+799701,Tomato 12hr KTS,None Set,2019-06-29,Delta Ranch,D-11,Complete,Alvaro Rualacava
+799701,Tomato 12hr KTS,None Set,2019-06-29,Delta Ranch,D-05S,Complete,Alvaro Rualacava
+799700,Tomato 12hr drip no fert,None Set,2019-06-27,Delta Ranch,D-11,Complete,Alvaro Rualacava
+799700,Tomato 12hr drip no fert,None Set,2019-06-27,Delta Ranch,D-05S,Complete,Alvaro Rualacava
+799699,Tomato 12hr CAN17,None Set,2019-06-25,Delta Ranch,D-11,Complete,Alvaro Rualacava
+799699,Tomato 12hr CAN17,None Set,2019-06-25,Delta Ranch,D-05S,Complete,Alvaro Rualacava
+799698,Tomato 12hr drip no fert,None Set,2019-06-30,Delta Ranch,D-11,Complete,Alvaro Rualacava
+799698,Tomato 12hr drip no fert,None Set,2019-06-30,Delta Ranch,D-05S,Complete,Alvaro Rualacava
+799697,Tomato 6 hr  drip no fert,None Set,2019-06-29,Delta Ranch,D-14,Complete,Alvaro Rualacava
+799651,Chemigation,None Set,2019-06-26,Delta Ranch,D-09E Block #2,Complete,Ricardo Ruvalcaba
+799651,Chemigation,None Set,2019-06-26,Delta Ranch,D-09E Block #1,Complete,Ricardo Ruvalcaba
+799636,12 hrs irr,None Set,2019-06-30,Pick Anderson,P-41,Complete,Sergio De La Torre Gonzalez
+799636,12 hrs irr,None Set,2019-06-30,Pick Anderson,P-40,Complete,Sergio De La Torre Gonzalez
+799635,12 hrs irr,None Set,2019-06-30,Pick Anderson,P-42,Complete,Sergio De La Torre Gonzalez
+799635,12 hrs irr,None Set,2019-06-30,Pick Anderson,P-02,Complete,Sergio De La Torre Gonzalez
+799634,12 hrs irr,None Set,2019-06-29,Pick Anderson,P-38,Complete,Sergio De La Torre Gonzalez
+799634,12 hrs irr,None Set,2019-06-29,Pick Anderson,P-37,Complete,Sergio De La Torre Gonzalez
+799633,12 hrs irr,None Set,2019-06-29,Pick Anderson,P-41,Complete,Sergio De La Torre Gonzalez
+799633,12 hrs irr,None Set,2019-06-29,Pick Anderson,P-40,Complete,Sergio De La Torre Gonzalez
+799632,12 hrs irr,None Set,2019-06-28,Pick Anderson,P-42,Complete,Sergio De La Torre Gonzalez
+799632,12 hrs irr,None Set,2019-06-28,Pick Anderson,P-02,Complete,Sergio De La Torre Gonzalez
+799631,12 hrs irr,None Set,2019-06-28,Pick Anderson,P-38,Complete,Sergio De La Torre Gonzalez
+799631,12 hrs irr,None Set,2019-06-28,Pick Anderson,P-37,Complete,Sergio De La Torre Gonzalez
+799630,12 hrs irr,None Set,2019-06-27,Pick Anderson,P-41,Complete,Sergio De La Torre Gonzalez
+799630,12 hrs irr,None Set,2019-06-27,Pick Anderson,P-40,Complete,Sergio De La Torre Gonzalez
+799629,12 hrs irr,None Set,2019-06-26,Pick Anderson,P-42,Complete,Sergio De La Torre Gonzalez
+799629,12 hrs irr,None Set,2019-06-26,Pick Anderson,P-02,Complete,Sergio De La Torre Gonzalez
+799628,4 hrs irr,None Set,2019-07-02,Pick Anderson,P-19,Complete,Sergio De La Torre Gonzalez
+799628,4 hrs irr,None Set,2019-07-02,Pick Anderson,P-18,Complete,Sergio De La Torre Gonzalez
+799628,4 hrs irr,None Set,2019-07-02,Pick Anderson,P-16W,Complete,Sergio De La Torre Gonzalez
+799628,4 hrs irr,None Set,2019-07-02,Pick Anderson,P-16E,Complete,Sergio De La Torre Gonzalez
+799627,4 hrs irr,None Set,2019-07-01,Pick Anderson,P-07,Complete,Sergio De La Torre Gonzalez
+799627,4 hrs irr,None Set,2019-07-01,Pick Anderson,P-06,Complete,Sergio De La Torre Gonzalez
+799627,4 hrs irr,None Set,2019-07-01,Pick Anderson,P-05,Complete,Sergio De La Torre Gonzalez
+799627,4 hrs irr,None Set,2019-07-01,Pick Anderson,P-04,Complete,Sergio De La Torre Gonzalez
+799627,4 hrs irr,None Set,2019-07-01,Pick Anderson,P-03,Complete,Sergio De La Torre Gonzalez
+799626,12 hrs irr,None Set,2019-06-29,Pick Anderson,P-13W,Complete,Sergio De La Torre Gonzalez
+799626,12 hrs irr,None Set,2019-06-29,Pick Anderson,P-12,Complete,Sergio De La Torre Gonzalez
+799625,12 hrs irr,None Set,2019-06-27,Pick Anderson,P-13W,Complete,Sergio De La Torre Gonzalez
+799625,12 hrs irr,None Set,2019-06-27,Pick Anderson,P-12,Complete,Sergio De La Torre Gonzalez
+799454,Pix/Carbine,2019-06-30,None Set,Pick Anderson,P-47,To Do,Wayne Pricolo
+799454,Pix/Carbine,2019-06-30,None Set,Pick Anderson,P-46,To Do,Wayne Pricolo
+799454,Pix/Carbine,2019-06-30,None Set,Pick Anderson,P-44,To Do,Wayne Pricolo
+799454,Pix/Carbine,2019-06-30,None Set,Pick Anderson,P-34,To Do,Wayne Pricolo
+799454,Pix/Carbine,2019-06-30,None Set,Hereford,H-18,To Do,Wayne Pricolo
+799454,Pix/Carbine,2019-06-30,None Set,Hereford,H-08,To Do,Wayne Pricolo
+799454,Pix/Carbine,2019-06-30,None Set,Hereford,H-06,To Do,Wayne Pricolo
+799454,Pix/Carbine,2019-06-30,None Set,Hereford,H-05,To Do,Wayne Pricolo
+799404,Tomato harvest,None Set,2019-07-03,Delta Ranch,D-14,Complete,Ben Garcia
+799346,Furrow Irrigation un-32,None Set,2019-06-26,Lone Tree,T-11,Complete,Alvaro Rualacava
+799345,Flood irrigation,None Set,2019-06-28,Las Animas,L-22,Complete,Alvaro Rualacava
+799344,Flood irrigation,None Set,2019-06-28,Las Animas,L-32,Complete,Alvaro Rualacava
+799343,Furrow Irrigation- Gated Pipe,None Set,2019-06-28,Las Animas,L-07W,Complete,Alvaro Rualacava
+799342,Furrow Irrigation,None Set,2019-06-28,Delta Ranch,D-23,Complete,Alvaro Rualacava
+799341,Watermelon 4 hr no fert,None Set,2019-06-28,Delta Ranch,D-19 Block #9,Complete,Alvaro Rualacava
+799341,Watermelon 4 hr no fert,None Set,2019-06-28,Delta Ranch,D-19 Block #8,Complete,Alvaro Rualacava
+799341,Watermelon 4 hr no fert,None Set,2019-06-28,Delta Ranch,D-19 Block #10,Complete,Alvaro Rualacava
+799341,Watermelon 4 hr no fert,None Set,2019-06-28,Delta Ranch,D-18 Block #9,Complete,Alvaro Rualacava
+799341,Watermelon 4 hr no fert,None Set,2019-06-28,Delta Ranch,D-18 Block  #8,Complete,Alvaro Rualacava
+799341,Watermelon 4 hr no fert,None Set,2019-06-28,Delta Ranch,D-18 Block #10,Complete,Alvaro Rualacava
+799340,Watermelon 8 hr KTS,None Set,2019-06-28,Delta Ranch,D-19 Block #7,Complete,Alvaro Rualacava
+799340,Watermelon 8 hr KTS,None Set,2019-06-28,Delta Ranch,D-19 Block #6,Complete,Alvaro Rualacava
+799340,Watermelon 8 hr KTS,None Set,2019-06-28,Delta Ranch,D-19 Block #5,Complete,Alvaro Rualacava
+799340,Watermelon 8 hr KTS,None Set,2019-06-28,Delta Ranch,D-19 Block #4,Complete,Alvaro Rualacava
+799340,Watermelon 8 hr KTS,None Set,2019-06-28,Delta Ranch,D-18 Block #7,Complete,Alvaro Rualacava
+799340,Watermelon 8 hr KTS,None Set,2019-06-28,Delta Ranch,D-18 Block #6,Complete,Alvaro Rualacava
+799340,Watermelon 8 hr KTS,None Set,2019-06-28,Delta Ranch,D-18 Block #5,Complete,Alvaro Rualacava
+799340,Watermelon 8 hr KTS,None Set,2019-06-28,Delta Ranch,D-18 Block #4,Complete,Alvaro Rualacava
+799339,Watermelon 4 hr no fert,None Set,2019-06-27,Delta Ranch,D-09W,Complete,Alvaro Rualacava
+799339,Watermelon 4 hr no fert,None Set,2019-06-27,Delta Ranch,D-09E Block #2,Complete,Alvaro Rualacava
+799339,Watermelon 4 hr no fert,None Set,2019-06-27,Delta Ranch,D-09E Block #1,Complete,Alvaro Rualacava
+799338,Watermelon 4 hr no fert,None Set,2019-06-27,Delta Ranch,D-19 Block #11,Complete,Alvaro Rualacava
+799338,Watermelon 4 hr no fert,None Set,2019-06-27,Delta Ranch,D-19 Block #10,Complete,Alvaro Rualacava
+799338,Watermelon 4 hr no fert,None Set,2019-06-27,Delta Ranch,D-18 Block #12,Complete,Alvaro Rualacava
+799338,Watermelon 4 hr no fert,None Set,2019-06-27,Delta Ranch,D-18 Block #11,Complete,Alvaro Rualacava
+799337,Watermelon 8 hr 0-0-12,None Set,2019-06-27,Delta Ranch,D-19 Block #3,Complete,Alvaro Rualacava
+799337,Watermelon 8 hr 0-0-12,None Set,2019-06-27,Delta Ranch,D-19 Block #2,Complete,Alvaro Rualacava
+799337,Watermelon 8 hr 0-0-12,None Set,2019-06-27,Delta Ranch,D-19 Block #1,Complete,Alvaro Rualacava
+799337,Watermelon 8 hr 0-0-12,None Set,2019-06-27,Delta Ranch,D-18 Block #3,Complete,Alvaro Rualacava
+799337,Watermelon 8 hr 0-0-12,None Set,2019-06-27,Delta Ranch,D-18 Block #2,Complete,Alvaro Rualacava
+799337,Watermelon 8 hr 0-0-12,None Set,2019-06-27,Delta Ranch,D-18 Block #1,Complete,Alvaro Rualacava
+799336,Watermelon 4 hr no fert,None Set,2019-06-26,Delta Ranch,D-19 Block #9,Complete,Alvaro Rualacava
+799336,Watermelon 4 hr no fert,None Set,2019-06-26,Delta Ranch,D-19 Block #8,Complete,Alvaro Rualacava
+799336,Watermelon 4 hr no fert,None Set,2019-06-26,Delta Ranch,D-19 Block #10,Complete,Alvaro Rualacava
+799336,Watermelon 4 hr no fert,None Set,2019-06-26,Delta Ranch,D-18 Block #9,Complete,Alvaro Rualacava
+799336,Watermelon 4 hr no fert,None Set,2019-06-26,Delta Ranch,D-18 Block  #8,Complete,Alvaro Rualacava
+799336,Watermelon 4 hr no fert,None Set,2019-06-26,Delta Ranch,D-18 Block #10,Complete,Alvaro Rualacava
+799335,Watermelon 6hr no fert,None Set,2019-06-26,Delta Ranch,D-19 Block #7,Complete,Alvaro Rualacava
+799335,Watermelon 6hr no fert,None Set,2019-06-26,Delta Ranch,D-19 Block #6,Complete,Alvaro Rualacava
+799335,Watermelon 6hr no fert,None Set,2019-06-26,Delta Ranch,D-18 Block #7,Complete,Alvaro Rualacava
+799335,Watermelon 6hr no fert,None Set,2019-06-26,Delta Ranch,D-18 Block #6,Complete,Alvaro Rualacava
+799334,Watermelon 8 hr no fert,None Set,2019-06-26,Delta Ranch,D-19 Block #5,Complete,Alvaro Rualacava
+799334,Watermelon 8 hr no fert,None Set,2019-06-26,Delta Ranch,D-19 Block #4,Complete,Alvaro Rualacava
+799334,Watermelon 8 hr no fert,None Set,2019-06-26,Delta Ranch,D-18 Block #5,Complete,Alvaro Rualacava
+799334,Watermelon 8 hr no fert,None Set,2019-06-26,Delta Ranch,D-18 Block #4,Complete,Alvaro Rualacava
+799333,Tomato 12hr drip no fert,None Set,2019-06-28,Delta Ranch,D-14,Complete,Alvaro Rualacava
+799333,Tomato 12hr drip no fert,None Set,2019-06-28,Delta Ranch,D-12,Complete,Alvaro Rualacava
+799332,Tomato 12hr drip no fert,None Set,2019-06-27,Delta Ranch,D-14,Complete,Alvaro Rualacava
+799332,Tomato 12hr drip no fert,None Set,2019-06-27,Delta Ranch,D-12,Complete,Alvaro Rualacava
+799332,Tomato 12hr drip no fert,None Set,2019-06-27,Delta Ranch,D-10,Complete,Alvaro Rualacava
+799331,Tomato 12hr  7-7-7,None Set,2019-06-28,Delta Ranch,D-17,Complete,Alvaro Rualacava
+799330,Tomato 12hr CAN17,None Set,2019-06-25,Delta Ranch,D-13,Complete,Alvaro Rualacava
+799330,Tomato 12hr CAN17,None Set,2019-06-25,Delta Ranch,D-12,Complete,Alvaro Rualacava
+799330,Tomato 12hr CAN17,None Set,2019-06-25,Delta Ranch,D-10,Complete,Alvaro Rualacava
+799082,Pistachio 6hr Irrigation,None Set,2019-06-28,Las Animas,L-27,Complete,Alvaro Rualacava
+799082,Pistachio 6hr Irrigation,None Set,2019-06-28,Las Animas,L-25,Complete,Alvaro Rualacava
+799000,Hay baling,None Set,2019-06-21,Las Animas,L-32,Complete,Ben Garcia
+798999,Hay baling,None Set,2019-06-21,Las Animas,L-22,Complete,Ben Garcia
+798997,Herbicide,2019-06-29,None Set,Lone Tree,T-12,To Do,Wayne Pricolo
+798992,Herbicide,2019-06-29,None Set,Elbon,E-02,To Do,Wayne Pricolo
+798981,Insecticide,2019-06-28,2019-06-29,Delta Ranch,D-10,Complete,Wayne Pricolo
+798981,Insecticide,2019-06-28,2019-06-29,Delta Ranch,D-10,Complete,Douglas Thiel
+798608,Cotton irrigation,None Set,2019-06-28,Hereford,H-05,Complete,Uli Urenda Sanchez
+798483,Watermelon 4 hr no fert,None Set,2019-06-25,Delta Ranch,D-09W,Complete,Alvaro Rualacava
+798483,Watermelon 4 hr no fert,None Set,2019-06-25,Delta Ranch,D-09E Block #2,Complete,Alvaro Rualacava
+798483,Watermelon 4 hr no fert,None Set,2019-06-25,Delta Ranch,D-09E Block #1,Complete,Alvaro Rualacava
+798482,Watermelon 4 hr can 17,None Set,2019-06-25,Delta Ranch,D-19 Block #11,Complete,Alvaro Rualacava
+798482,Watermelon 4 hr can 17,None Set,2019-06-25,Delta Ranch,D-19 Block #10,Complete,Alvaro Rualacava
+798482,Watermelon 4 hr can 17,None Set,2019-06-25,Delta Ranch,D-18 Block #12,Complete,Alvaro Rualacava
+798482,Watermelon 4 hr can 17,None Set,2019-06-25,Delta Ranch,D-18 Block #11,Complete,Alvaro Rualacava
+798481,Quadris & Regalia #-1,None Set,2019-06-25,Delta Ranch,D-19 Block #10,Complete,Alvaro Rualacava
+798481,Quadris & Regalia #-1,None Set,2019-06-25,Delta Ranch,D-18 Block #12,Complete,Alvaro Rualacava
+798481,Quadris & Regalia #-1,None Set,2019-06-25,Delta Ranch,D-18 Block #11,Complete,Alvaro Rualacava
+798481,Quadris & Regalia #-1,None Set,2019-06-25,Delta Ranch,D-18 Block #10,Complete,Alvaro Rualacava
+798480,Watermelon 8 hr no fert,None Set,2019-06-25,Delta Ranch,D-19 Block #3,Complete,Alvaro Rualacava
+798480,Watermelon 8 hr no fert,None Set,2019-06-25,Delta Ranch,D-19 Block #2,Complete,Alvaro Rualacava
+798480,Watermelon 8 hr no fert,None Set,2019-06-25,Delta Ranch,D-19 Block #1,Complete,Alvaro Rualacava
+798480,Watermelon 8 hr no fert,None Set,2019-06-25,Delta Ranch,D-18 Block #3,Complete,Alvaro Rualacava
+798480,Watermelon 8 hr no fert,None Set,2019-06-25,Delta Ranch,D-18 Block #2,Complete,Alvaro Rualacava
+798480,Watermelon 8 hr no fert,None Set,2019-06-25,Delta Ranch,D-18 Block #1,Complete,Alvaro Rualacava
+798451,Furrow Irrigation,None Set,2019-06-28,Pick Anderson,P-47,Complete,John Palazzo
+798449,Furrow Irrigation  with siphon pipes,None Set,2019-06-30,Pick Anderson,P-24,Complete,John Palazzo
+798447,Furrow Irrigation with siphon pipes,None Set,2019-06-25,Pick Anderson,P-23,Complete,John Palazzo
+798444,Furrow Irrigation- Gated Pipe,None Set,2019-06-30,Pick Anderson,P-20,Complete,John Palazzo
+798442,Furrow Irrigation- Gated Pipe,None Set,2019-06-26,Pick Anderson,P-10,Complete,John Palazzo
+798440,Furrow Irrigation,None Set,2019-06-27,Pick Anderson,P-45,Complete,John Palazzo
+798437,Furrow Irrigation- Gated Pipe,None Set,2019-06-29,Pick Anderson,P-17,Complete,John Palazzo
+797470,Sprinklers Irrigation 4hrs,None Set,2019-06-26,Las Animas,L-07E-North,Complete,Jeronimo Torres Rosales
+797145,Chemigation,None Set,2019-06-26,Delta Ranch,D-19 Block #9,Complete,Ricardo Ruvalcaba
+797145,Chemigation,None Set,2019-06-26,Delta Ranch,D-19 Block #11,Complete,Ricardo Ruvalcaba
+797145,Chemigation,None Set,2019-06-26,Delta Ranch,D-19 Block #10,Complete,Ricardo Ruvalcaba
+797145,Chemigation,None Set,2019-06-26,Delta Ranch,D-18 Block #12,Complete,Ricardo Ruvalcaba
+797145,Chemigation,None Set,2019-06-26,Delta Ranch,D-18 Block #11,Complete,Ricardo Ruvalcaba
+796936,Admire/Pilatus,2019-06-27,None Set,Pick Anderson,P-07,To Do,Wayne Pricolo
+796936,Admire/Pilatus,2019-06-27,None Set,Pick Anderson,P-06,To Do,Wayne Pricolo
+796936,Admire/Pilatus,2019-06-27,None Set,Pick Anderson,P-05,To Do,Wayne Pricolo
+796936,Admire/Pilatus,2019-06-27,None Set,Pick Anderson,P-04,To Do,Wayne Pricolo
+796936,Admire/Pilatus,2019-06-27,None Set,Pick Anderson,P-03,To Do,Wayne Pricolo
+796932,Admire,2019-06-27,None Set,Pick Anderson,P-41,To Do,Wayne Pricolo
+796932,Admire,2019-06-27,None Set,Pick Anderson,P-40,To Do,Wayne Pricolo
+796932,Admire,2019-06-27,None Set,Elbon,E-05,To Do,Wayne Pricolo
+796932,Admire,2019-06-27,None Set,Elbon,E-04,To Do,Wayne Pricolo
+796932,Admire,2019-06-27,None Set,Elbon,E-03,To Do,Wayne Pricolo
+796922,Platinum,2019-06-27,None Set,Kreyenhagen,K-03,To Do,Wayne Pricolo
+796889,Sulfur App. #1,2019-06-27,None Set,Pick Anderson,P-07,To Do,Wayne Pricolo
+796889,Sulfur App. #1,2019-06-27,None Set,Pick Anderson,P-06,To Do,Wayne Pricolo
+796889,Sulfur App. #1,2019-06-27,None Set,Pick Anderson,P-05,To Do,Wayne Pricolo
+796889,Sulfur App. #1,2019-06-27,None Set,Pick Anderson,P-04,To Do,Wayne Pricolo
+796889,Sulfur App. #1,2019-06-27,None Set,Pick Anderson,P-03,To Do,Wayne Pricolo
+796876,Carbine/Pix,2019-06-27,2019-06-29,Pick Anderson,P-32,Complete,Wayne Pricolo
+796876,Carbine/Pix,2019-06-27,2019-06-29,Pick Anderson,P-32,Complete,Douglas Thiel
+796841,Sulfur App. #1,2019-06-27,2019-06-29,Pick Anderson,P-41,Complete,Wayne Pricolo
+796841,Sulfur App. #1,2019-06-27,2019-06-29,Pick Anderson,P-41,Complete,Douglas Thiel
+796841,Sulfur App. #1,2019-06-27,2019-06-29,Pick Anderson,P-40,Complete,Wayne Pricolo
+796841,Sulfur App. #1,2019-06-27,2019-06-29,Pick Anderson,P-40,Complete,Douglas Thiel
+796841,Sulfur App. #1,2019-06-27,2019-06-29,Elbon,E-05,Complete,Wayne Pricolo
+796841,Sulfur App. #1,2019-06-27,2019-06-29,Elbon,E-05,Complete,Douglas Thiel
+796841,Sulfur App. #1,2019-06-27,2019-06-29,Elbon,E-04,Complete,Wayne Pricolo
+796841,Sulfur App. #1,2019-06-27,2019-06-29,Elbon,E-04,Complete,Douglas Thiel
+796841,Sulfur App. #1,2019-06-27,2019-06-29,Elbon,E-03,Complete,Wayne Pricolo
+796841,Sulfur App. #1,2019-06-27,2019-06-29,Elbon,E-03,Complete,Douglas Thiel
+796835,Sulfur  App. #2,2019-06-27,2019-06-29,Pick Anderson,P-42,Complete,Wayne Pricolo
+796835,Sulfur  App. #2,2019-06-27,2019-06-29,Pick Anderson,P-42,Complete,Douglas Thiel
+796835,Sulfur  App. #2,2019-06-27,2019-06-29,Pick Anderson,P-38,Complete,Wayne Pricolo
+796835,Sulfur  App. #2,2019-06-27,2019-06-29,Pick Anderson,P-38,Complete,Douglas Thiel
+796835,Sulfur  App. #2,2019-06-27,2019-06-29,Pick Anderson,P-37,Complete,Wayne Pricolo
+796835,Sulfur  App. #2,2019-06-27,2019-06-29,Pick Anderson,P-37,Complete,Douglas Thiel
+796835,Sulfur  App. #2,2019-06-27,2019-06-29,Pick Anderson,P-19,Complete,Wayne Pricolo
+796835,Sulfur  App. #2,2019-06-27,2019-06-29,Pick Anderson,P-19,Complete,Douglas Thiel
+796835,Sulfur  App. #2,2019-06-27,2019-06-29,Pick Anderson,P-18,Complete,Wayne Pricolo
+796835,Sulfur  App. #2,2019-06-27,2019-06-29,Pick Anderson,P-18,Complete,Douglas Thiel
+796835,Sulfur  App. #2,2019-06-27,2019-06-29,Pick Anderson,P-16W,Complete,Wayne Pricolo
+796835,Sulfur  App. #2,2019-06-27,2019-06-29,Pick Anderson,P-16W,Complete,Douglas Thiel
+796835,Sulfur  App. #2,2019-06-27,2019-06-29,Pick Anderson,P-16E,Complete,Wayne Pricolo
+796835,Sulfur  App. #2,2019-06-27,2019-06-29,Pick Anderson,P-16E,Complete,Douglas Thiel
+796835,Sulfur  App. #2,2019-06-27,2019-06-29,Pick Anderson,P-02,Complete,Wayne Pricolo
+796835,Sulfur  App. #2,2019-06-27,2019-06-29,Pick Anderson,P-02,Complete,Douglas Thiel
+796835,Sulfur  App. #2,2019-06-27,2019-06-29,Las Animas,L-05,Complete,Wayne Pricolo
+796835,Sulfur  App. #2,2019-06-27,2019-06-29,Las Animas,L-05,Complete,Douglas Thiel
+796835,Sulfur  App. #2,2019-06-27,2019-06-29,Las Animas,L-03,Complete,Wayne Pricolo
+796835,Sulfur  App. #2,2019-06-27,2019-06-29,Las Animas,L-03,Complete,Douglas Thiel
+796835,Sulfur  App. #2,2019-06-27,2019-06-29,Kreyenhagen,K-07,Complete,Wayne Pricolo
+796835,Sulfur  App. #2,2019-06-27,2019-06-29,Kreyenhagen,K-07,Complete,Douglas Thiel
+796835,Sulfur  App. #2,2019-06-27,2019-06-29,Delta Ranch,D-26,Complete,Wayne Pricolo
+796835,Sulfur  App. #2,2019-06-27,2019-06-29,Delta Ranch,D-26,Complete,Douglas Thiel
+796835,Sulfur  App. #2,2019-06-27,2019-06-29,Delta Ranch,D-11,Complete,Wayne Pricolo
+796835,Sulfur  App. #2,2019-06-27,2019-06-29,Delta Ranch,D-11,Complete,Douglas Thiel
+796835,Sulfur  App. #2,2019-06-27,2019-06-29,Delta Ranch,D-05S,Complete,Wayne Pricolo
+796835,Sulfur  App. #2,2019-06-27,2019-06-29,Delta Ranch,D-05S,Complete,Douglas Thiel
+796835,Sulfur  App. #2,2019-06-27,2019-06-29,Delta Ranch,D-02,Complete,Wayne Pricolo
+796835,Sulfur  App. #2,2019-06-27,2019-06-29,Delta Ranch,D-02,Complete,Douglas Thiel
+796824,Miticide,2019-06-28,2019-06-29,Delta Ranch,D-09W,Complete,Wayne Pricolo
+796824,Miticide,2019-06-28,2019-06-29,Delta Ranch,D-09W,Complete,Douglas Thiel
+796824,Miticide,2019-06-28,2019-06-29,Delta Ranch,D-09E Block #2,Complete,Wayne Pricolo
+796824,Miticide,2019-06-28,2019-06-29,Delta Ranch,D-09E Block #2,Complete,Douglas Thiel
+796824,Miticide,2019-06-28,2019-06-29,Delta Ranch,D-09E Block #1,Complete,Wayne Pricolo
+796824,Miticide,2019-06-28,2019-06-29,Delta Ranch,D-09E Block #1,Complete,Douglas Thiel
+796535,12 hrs 7.5 g/a can 17,None Set,2019-06-20,Hereford,H-13,Complete,Uli Urenda Sanchez
+796534,12 hrs 7.5 g/a can 17,None Set,2019-06-19,Hereford,H-12,Complete,Uli Urenda Sanchez
+796533,12 hrs 7.5 g/a can 17,None Set,2019-06-19,Hereford,H-10,Complete,Uli Urenda Sanchez
+796532,12 hrs 7.5g/a can 17,None Set,2019-06-19,Hereford,H-09,Complete,Uli Urenda Sanchez
+796530,12 hrs 7.5 g/a can 17,None Set,2019-06-18,Hereford,H-11,Complete,Uli Urenda Sanchez
+796529,12 hrs 7.5 g/a can 17,None Set,2019-06-18,Hereford,H-15,Complete,Uli Urenda Sanchez
+796528,12 hrs 7.5 g/a can 17,None Set,2019-06-18,Hereford,H-14,Complete,Uli Urenda Sanchez
+796527,12 hrs,None Set,2019-06-22,Delta Ranch,D-02,Complete,Uli Urenda Sanchez
+796525,12 hrs 0-0-12 10 g/a,None Set,2019-06-21,Delta Ranch,D-02,Complete,Uli Urenda Sanchez
+796524,12 hrs,None Set,2019-06-19,Delta Ranch,D-02,Complete,Uli Urenda Sanchez
+796523,12 hrs un32 5 g/a,None Set,2019-06-17,Delta Ranch,D-02,Complete,Uli Urenda Sanchez
+796522,Pre irrigation  fresh market tomato,None Set,2019-06-25,Elbon,E-02,Complete,Uli Urenda Sanchez
+796521,Cotton irrigation,None Set,2019-06-25,Hereford,H-06,Complete,Uli Urenda Sanchez
+796519,Cotton irrigation,None Set,2019-06-26,Hereford,H-18,Complete,Uli Urenda Sanchez
+796518,12 hrs,None Set,2019-06-16,Kreyenhagen,K-07,Complete,Uli Urenda Sanchez
+796517,12 hrs,None Set,2019-06-16,Kreyenhagen,K-04,Complete,Uli Urenda Sanchez
+796515,12 hrs,None Set,2019-06-16,Kreyenhagen,K-05,Complete,Uli Urenda Sanchez
+796513,12 hrs,None Set,2019-06-15,Kreyenhagen,K-06,Complete,Uli Urenda Sanchez
+796492,4 hrs irr,None Set,2019-06-25,Pick Anderson,P-19,Complete,Sergio De La Torre Gonzalez
+796492,4 hrs irr,None Set,2019-06-25,Pick Anderson,P-18,Complete,Sergio De La Torre Gonzalez
+796492,4 hrs irr,None Set,2019-06-25,Pick Anderson,P-16W,Complete,Sergio De La Torre Gonzalez
+796492,4 hrs irr,None Set,2019-06-25,Pick Anderson,P-16E,Complete,Sergio De La Torre Gonzalez
+796483,4hrs irr,None Set,2019-06-28,Pick Anderson,P-19,Complete,Sergio De La Torre Gonzalez
+796483,4hrs irr,None Set,2019-06-28,Pick Anderson,P-18,Complete,Sergio De La Torre Gonzalez
+796483,4hrs irr,None Set,2019-06-28,Pick Anderson,P-16W,Complete,Sergio De La Torre Gonzalez
+796483,4hrs irr,None Set,2019-06-28,Pick Anderson,P-16E,Complete,Sergio De La Torre Gonzalez
+796481,12 hrs irr,None Set,2019-06-26,Pick Anderson,P-38,Complete,Sergio De La Torre Gonzalez
+796481,12 hrs irr,None Set,2019-06-26,Pick Anderson,P-37,Complete,Sergio De La Torre Gonzalez
+796480,12 hrs irr,None Set,2019-06-25,Pick Anderson,P-41,Complete,Sergio De La Torre Gonzalez
+796480,12 hrs irr,None Set,2019-06-25,Pick Anderson,P-40,Complete,Sergio De La Torre Gonzalez
+796479,12 hrs irr,None Set,2019-06-25,Pick Anderson,P-13W,Complete,Sergio De La Torre Gonzalez
+796479,12 hrs irr,None Set,2019-06-25,Pick Anderson,P-12,Complete,Sergio De La Torre Gonzalez
+796478,4hrs irr,None Set,2019-06-24,Pick Anderson,P-13W,Complete,Sergio De La Torre Gonzalez
+796478,4hrs irr,None Set,2019-06-24,Pick Anderson,P-12,Complete,Sergio De La Torre Gonzalez
+796477,12 hrs irr,None Set,2019-06-25,Pick Anderson,P-42,Complete,Sergio De La Torre Gonzalez
+796477,12 hrs irr,None Set,2019-06-25,Pick Anderson,P-02,Complete,Sergio De La Torre Gonzalez
+796476,12 hrs irr,None Set,2019-06-24,Pick Anderson,P-38,Complete,Sergio De La Torre Gonzalez
+796476,12 hrs irr,None Set,2019-06-24,Pick Anderson,P-37,Complete,Sergio De La Torre Gonzalez
+796475,4hrs irr,None Set,2019-06-27,Pick Anderson,P-07,Complete,Sergio De La Torre Gonzalez
+796475,4hrs irr,None Set,2019-06-27,Pick Anderson,P-06,Complete,Sergio De La Torre Gonzalez
+796475,4hrs irr,None Set,2019-06-27,Pick Anderson,P-05,Complete,Sergio De La Torre Gonzalez
+796475,4hrs irr,None Set,2019-06-27,Pick Anderson,P-04,Complete,Sergio De La Torre Gonzalez
+796475,4hrs irr,None Set,2019-06-27,Pick Anderson,P-03,Complete,Sergio De La Torre Gonzalez
+796354,Insecticide/foliar,2019-06-26,None Set,Kreyenhagen,K-03,To Do,Wayne Pricolo
+796334,Insecticide/Foliar,2019-06-26,None Set,Hereford,H-15,To Do,Wayne Pricolo
+796334,Insecticide/Foliar,2019-06-26,None Set,Hereford,H-14,To Do,Wayne Pricolo
+796334,Insecticide/Foliar,2019-06-26,None Set,Hereford,H-13,To Do,Wayne Pricolo
+796334,Insecticide/Foliar,2019-06-26,None Set,Hereford,H-12,To Do,Wayne Pricolo
+796334,Insecticide/Foliar,2019-06-26,None Set,Hereford,H-11,To Do,Wayne Pricolo
+796334,Insecticide/Foliar,2019-06-26,None Set,Hereford,H-10,To Do,Wayne Pricolo
+796334,Insecticide/Foliar,2019-06-26,None Set,Hereford,H-09,To Do,Wayne Pricolo
+796323,Broadleaf herbicide,2019-06-26,None Set,Lone Tree,T-10 South,To Do,Wayne Pricolo
+796323,Broadleaf herbicide,2019-06-26,None Set,Las Animas,L-36 South,To Do,Wayne Pricolo
+796318,Herbicide,2019-06-29,None Set,Las Animas,L-27,To Do,Wayne Pricolo
+796318,Herbicide,2019-06-29,None Set,Las Animas,L-25,To Do,Wayne Pricolo
+796306,Insecticide,2019-06-28,2019-06-29,Delta Ranch,D-19 Block #7,Complete,Wayne Pricolo
+796306,Insecticide,2019-06-28,2019-06-29,Delta Ranch,D-19 Block #7,Complete,Douglas Thiel
+796306,Insecticide,2019-06-28,2019-06-29,Delta Ranch,D-19 Block #6,Complete,Wayne Pricolo
+796306,Insecticide,2019-06-28,2019-06-29,Delta Ranch,D-19 Block #6,Complete,Douglas Thiel
+796306,Insecticide,2019-06-28,2019-06-29,Delta Ranch,D-19 Block #5,Complete,Wayne Pricolo
+796306,Insecticide,2019-06-28,2019-06-29,Delta Ranch,D-19 Block #5,Complete,Douglas Thiel
+796306,Insecticide,2019-06-28,2019-06-29,Delta Ranch,D-19 Block #4,Complete,Wayne Pricolo
+796306,Insecticide,2019-06-28,2019-06-29,Delta Ranch,D-19 Block #4,Complete,Douglas Thiel
+796306,Insecticide,2019-06-28,2019-06-29,Delta Ranch,D-18 Block #7,Complete,Wayne Pricolo
+796306,Insecticide,2019-06-28,2019-06-29,Delta Ranch,D-18 Block #7,Complete,Douglas Thiel
+796306,Insecticide,2019-06-28,2019-06-29,Delta Ranch,D-18 Block #6,Complete,Wayne Pricolo
+796306,Insecticide,2019-06-28,2019-06-29,Delta Ranch,D-18 Block #6,Complete,Douglas Thiel
+796306,Insecticide,2019-06-28,2019-06-29,Delta Ranch,D-18 Block #5,Complete,Wayne Pricolo
+796306,Insecticide,2019-06-28,2019-06-29,Delta Ranch,D-18 Block #5,Complete,Douglas Thiel
+796306,Insecticide,2019-06-28,2019-06-29,Delta Ranch,D-18 Block #4,Complete,Wayne Pricolo
+796306,Insecticide,2019-06-28,2019-06-29,Delta Ranch,D-18 Block #4,Complete,Douglas Thiel
+796296,Miticide,2019-06-28,2019-06-29,Delta Ranch,D-19 Block #9,Complete,Wayne Pricolo
+796296,Miticide,2019-06-28,2019-06-29,Delta Ranch,D-19 Block #9,Complete,Douglas Thiel
+796296,Miticide,2019-06-28,2019-06-29,Delta Ranch,D-19 Block #8,Complete,Wayne Pricolo
+796296,Miticide,2019-06-28,2019-06-29,Delta Ranch,D-19 Block #8,Complete,Douglas Thiel
+796296,Miticide,2019-06-28,2019-06-29,Delta Ranch,D-18 Block #9,Complete,Wayne Pricolo
+796296,Miticide,2019-06-28,2019-06-29,Delta Ranch,D-18 Block #9,Complete,Douglas Thiel
+796296,Miticide,2019-06-28,2019-06-29,Delta Ranch,D-18 Block  #8,Complete,Wayne Pricolo
+796296,Miticide,2019-06-28,2019-06-29,Delta Ranch,D-18 Block  #8,Complete,Douglas Thiel
+796296,Miticide,2019-06-28,2019-06-29,Delta Ranch,D-18 Block #10,Complete,Wayne Pricolo
+796296,Miticide,2019-06-28,2019-06-29,Delta Ranch,D-18 Block #10,Complete,Douglas Thiel
+796289,Miticide,2019-06-26,2019-06-27,Delta Ranch,D-24,Complete,Wayne Pricolo
+796289,Miticide,2019-06-26,2019-06-27,Delta Ranch,D-24,Complete,Douglas Thiel
+796289,Miticide,2019-06-26,2019-06-27,Delta Ranch,D-23,Complete,Wayne Pricolo
+796289,Miticide,2019-06-26,2019-06-27,Delta Ranch,D-23,Complete,Douglas Thiel
+796278,Insecticide,2019-07-02,None Set,Delta Ranch,D-17,To Do,Wayne Pricolo
+796269,Platinum,None Set,2019-06-25,Delta Ranch,D-10,Complete,Alvaro Rualacava
+796269,Platinum,2019-07-02,2019-06-25,Delta Ranch,D-10,Complete,Wayne Pricolo
+796261,Fungicide,2019-06-25,None Set,Elbon,E-06,To Do,Wayne Pricolo
+796261,Fungicide,2019-06-25,None Set,Delta Ranch,D-15,To Do,Wayne Pricolo
+796254,Insecticide,2019-06-26,None Set,Las Animas,L-04,To Do,Wayne Pricolo
+796250,Sidedress,2019-06-26,None Set,Las Animas,L-07EN Center,To Do,Wayne Pricolo
+796119,12 hrs kts 3 g/a,None Set,2019-06-14,Kreyenhagen,K-06,Complete,Uli Urenda Sanchez
+796118,12 hrs,None Set,2019-06-13,Kreyenhagen,K-07,Complete,Uli Urenda Sanchez
+795632,Pistachio 3 hr  Irrigation,None Set,2019-06-24,Las Animas,L-27,Complete,Alvaro Rualacava
+795632,Pistachio 3 hr  Irrigation,None Set,2019-06-24,Las Animas,L-25,Complete,Alvaro Rualacava
+795631,12  hrs,None Set,2019-06-12,Kreyenhagen,K-03,Complete,Uli Urenda Sanchez
+795630,12 hrs,None Set,2019-06-12,Kreyenhagen,K-06,Complete,Uli Urenda Sanchez
+795629,12 hrs  7.5 g/a can 17,None Set,2019-06-11,Kreyenhagen,K-04,Complete,Uli Urenda Sanchez
+795628,12 hrs 7.5 g/a  can 17,None Set,2019-06-11,Kreyenhagen,K-05,Complete,Uli Urenda Sanchez
+795624,12 hrs 7.5 g/a. Can 17,None Set,2019-06-11,Kreyenhagen,K-07,Complete,Uli Urenda Sanchez
+795623,12 hrs 7.5 g/a can 17,None Set,2019-06-10,Kreyenhagen,K-06,Complete,Uli Urenda Sanchez
+795622,Furrow Irrigation,None Set,2019-06-24,Las Animas,L-30,Complete,Alvaro Rualacava
+795621,12 hrs,None Set,2019-06-15,Hereford,H-10,Complete,Uli Urenda Sanchez
+795620,12 hrs,None Set,2019-06-15,Hereford,H-09,Complete,Uli Urenda Sanchez
+795619,12 hrs un32 10 g/a,None Set,2019-06-11,Hereford,H-10,Complete,Uli Urenda Sanchez
+795618,12 hrs un32 10 g/a,None Set,2019-06-11,Hereford,H-09,Complete,Uli Urenda Sanchez
+795617,Tomato 12hr CAN17,None Set,2019-06-25,Las Animas,L-03,Complete,Alvaro Rualacava
+795616,Tomato 12hr UN32,None Set,2019-06-24,Las Animas,L-04,Complete,Alvaro Rualacava
+795615,Watermelon 4 hr can 17,None Set,2019-06-24,Delta Ranch,D-19 Block #9,Complete,Alvaro Rualacava
+795615,Watermelon 4 hr can 17,None Set,2019-06-24,Delta Ranch,D-19 Block #8,Complete,Alvaro Rualacava
+795615,Watermelon 4 hr can 17,None Set,2019-06-24,Delta Ranch,D-19 Block #10,Complete,Alvaro Rualacava
+795615,Watermelon 4 hr can 17,None Set,2019-06-24,Delta Ranch,D-18 Block #9,Complete,Alvaro Rualacava
+795615,Watermelon 4 hr can 17,None Set,2019-06-24,Delta Ranch,D-18 Block  #8,Complete,Alvaro Rualacava
+795615,Watermelon 4 hr can 17,None Set,2019-06-24,Delta Ranch,D-18 Block #10,Complete,Alvaro Rualacava
+795614,Watermelon 6 hr can 17,None Set,2019-06-24,Delta Ranch,D-19 Block #7,Complete,Alvaro Rualacava
+795614,Watermelon 6 hr can 17,None Set,2019-06-24,Delta Ranch,D-19 Block #6,Complete,Alvaro Rualacava
+795614,Watermelon 6 hr can 17,None Set,2019-06-24,Delta Ranch,D-18 Block #7,Complete,Alvaro Rualacava
+795614,Watermelon 6 hr can 17,None Set,2019-06-24,Delta Ranch,D-18 Block #6,Complete,Alvaro Rualacava
+795613,Watermelon 8 hr no fert,None Set,2019-06-24,Delta Ranch,D-19 Block #5,Complete,Alvaro Rualacava
+795613,Watermelon 8 hr no fert,None Set,2019-06-24,Delta Ranch,D-19 Block #4,Complete,Alvaro Rualacava
+795613,Watermelon 8 hr no fert,None Set,2019-06-24,Delta Ranch,D-18 Block #5,Complete,Alvaro Rualacava
+795613,Watermelon 8 hr no fert,None Set,2019-06-24,Delta Ranch,D-18 Block #4,Complete,Alvaro Rualacava
+795612,12 hrs 9 g/a un32,None Set,2019-06-14,Hereford,H-14,Complete,Uli Urenda Sanchez
+795611,12 hrs,None Set,2019-06-15,Hereford,H-11,Complete,Uli Urenda Sanchez
+795610,12 hrs 10 g/a 0-0-12,None Set,2019-06-15,Delta Ranch,D-02,Complete,Uli Urenda Sanchez
+795607,Tomato 12hr drip no fert,None Set,2019-06-25,Delta Ranch,D-14,Complete,Alvaro Rualacava
+795606,Tomato 12hr CAN17,None Set,2019-06-24,Delta Ranch,D-12,Complete,Alvaro Rualacava
+795605,Tomato 12hr CAN17,None Set,2019-06-24,Delta Ranch,D-10,Complete,Alvaro Rualacava
+795421,Furrow Irrigation,None Set,2019-06-23,Delta Ranch,D-24,Complete,Alvaro Rualacava
+795376,Sugar Express,2019-06-25,2019-06-25,Delta Ranch,D-18 Block #3,Complete,Wayne Pricolo
+795376,Sugar Express,2019-06-25,2019-06-25,Delta Ranch,D-18 Block #3,Complete,Douglas Thiel
+795376,Sugar Express,2019-06-25,2019-06-25,Delta Ranch,D-18 Block #2,Complete,Wayne Pricolo
+795376,Sugar Express,2019-06-25,2019-06-25,Delta Ranch,D-18 Block #2,Complete,Douglas Thiel
+795376,Sugar Express,2019-06-25,2019-06-25,Delta Ranch,D-18 Block #1,Complete,Wayne Pricolo
+795376,Sugar Express,2019-06-25,2019-06-25,Delta Ranch,D-18 Block #1,Complete,Douglas Thiel
+795295,Carbine/Pix,2019-06-25,None Set,Las Animas,L-31,To Do,Wayne Pricolo
+795291,Carbine/Pix,2019-06-24,None Set,Las Animas,L-35,To Do,Wayne Pricolo
+795275,Carbine/Pix,2019-06-24,None Set,Las Animas,L-33,To Do,Wayne Pricolo
+795275,Carbine/Pix,2019-06-24,None Set,Las Animas,L-30,To Do,Wayne Pricolo
+795270,Carbine/Pix,None Set,2019-06-26,Hereford,H-24,In Progress,Ricardo Ruvalcaba
+795270,Carbine/Pix,None Set,2019-06-24,Pick Anderson,P-43,In Progress,Ricardo Ruvalcaba
+795270,Carbine/Pix,2019-06-25,None Set,Pick Anderson,P-43,To Do,Wayne Pricolo
+795270,Carbine/Pix,2019-06-25,None Set,Pick Anderson,P-25,To Do,Wayne Pricolo
+795270,Carbine/Pix,2019-06-25,None Set,Las Animas,L-21,To Do,Wayne Pricolo
+795270,Carbine/Pix,2019-06-25,None Set,Hereford,H-25S,To Do,Wayne Pricolo
+795270,Carbine/Pix,2019-06-25,None Set,Hereford,H-25N,To Do,Wayne Pricolo
+795270,Carbine/Pix,2019-06-25,None Set,Hereford,H-24,To Do,Wayne Pricolo
 794618,Furrow Irrigation,None Set,2019-06-22,Lone Tree,T-12,Complete,Alvaro Rualacava
 794617,Tomato 12hr drip no fert,None Set,2019-06-24,Las Animas,L-11,Complete,Alvaro Rualacava
 794613,Tomato 12hr drip no fert,None Set,2019-06-23,Las Animas,L-09,Complete,Alvaro Rualacava
@@ -88,13 +510,16 @@ Job Id,Activity Name,Date Due,Date Completed,Property,Paddock,Job Status,Activit
 793890,Insecticide,2019-06-21,None Set,Pick Anderson,P-13E,To Do,Wayne Pricolo
 793871,Pistachio 12 hr Irrigation,None Set,2019-06-22,Las Animas,L-27,Complete,Alvaro Rualacava
 793871,Pistachio 12 hr Irrigation,None Set,2019-06-22,Las Animas,L-25,Complete,Alvaro Rualacava
+793799,Pix/Carbine,None Set,2019-06-25,Pick Anderson,P-27,In Progress,Ricardo Ruvalcaba
+793799,Pix/Carbine,None Set,2019-06-25,Elbon,E-08,In Progress,Ricardo Ruvalcaba
+793799,Pix/Carbine,None Set,2019-06-24,Kreyenhagen,K-02,In Progress,Ricardo Ruvalcaba
 793799,Pix/Carbine,2019-06-22,None Set,Pick Anderson,P-27,To Do,Wayne Pricolo
 793799,Pix/Carbine,2019-06-22,None Set,Pick Anderson,P-26,To Do,Wayne Pricolo
 793799,Pix/Carbine,2019-06-22,None Set,Pick Anderson,P-22,To Do,Wayne Pricolo
 793799,Pix/Carbine,2019-06-22,None Set,Kreyenhagen,K-02,To Do,Wayne Pricolo
 793799,Pix/Carbine,2019-06-22,None Set,Elbon,E-08,To Do,Wayne Pricolo
 793799,Pix/Carbine,2019-06-22,None Set,Delta Ranch,D-01,To Do,Wayne Pricolo
-793794,Herbicide,2019-06-22,None Set,Hereford,H-22,To Do,Wayne Pricolo
+793794,Herbicide,2019-06-29,None Set,Hereford,H-22,To Do,Wayne Pricolo
 793791,Burn down,2019-06-22,None Set,Pick Anderson,P-15,To Do,Wayne Pricolo
 793780,Fungicide,None Set,2019-06-24,Delta Ranch,D-06,Complete,Alvaro Rualacava
 793780,Fungicide,2019-06-21,2019-06-23,Delta Ranch,D-06,Complete,Wayne Pricolo
@@ -138,11 +563,16 @@ Job Id,Activity Name,Date Due,Date Completed,Property,Paddock,Job Status,Activit
 793437,4 hrs irr,None Set,2019-06-21,Pick Anderson,P-16E,Complete,Sergio De La Torre Gonzalez
 793436,12 hrs irr,None Set,2019-06-20,Pick Anderson,P-13W,Complete,Sergio De La Torre Gonzalez
 793436,12 hrs irr,None Set,2019-06-20,Pick Anderson,P-12,Complete,Sergio De La Torre Gonzalez
-793325,Sulfur #1,2019-06-24,None Set,Pick Anderson,P-13W,To Do,Wayne Pricolo
-793325,Sulfur #1,2019-06-24,None Set,Pick Anderson,P-12,To Do,Wayne Pricolo
-793325,Sulfur #1,2019-06-24,None Set,Kreyenhagen,K-06,To Do,Wayne Pricolo
-793325,Sulfur #1,2019-06-24,None Set,Kreyenhagen,K-05,To Do,Wayne Pricolo
-793325,Sulfur #1,2019-06-24,None Set,Kreyenhagen,K-04,To Do,Wayne Pricolo
+793325,Sulfur #1,2019-06-24,2019-06-25,Pick Anderson,P-13W,Complete,Wayne Pricolo
+793325,Sulfur #1,2019-06-24,2019-06-25,Pick Anderson,P-13W,Complete,Douglas Thiel
+793325,Sulfur #1,2019-06-24,2019-06-25,Pick Anderson,P-12,Complete,Wayne Pricolo
+793325,Sulfur #1,2019-06-24,2019-06-25,Pick Anderson,P-12,Complete,Douglas Thiel
+793325,Sulfur #1,2019-06-24,2019-06-25,Kreyenhagen,K-06,Complete,Wayne Pricolo
+793325,Sulfur #1,2019-06-24,2019-06-25,Kreyenhagen,K-06,Complete,Douglas Thiel
+793325,Sulfur #1,2019-06-24,2019-06-25,Kreyenhagen,K-05,Complete,Wayne Pricolo
+793325,Sulfur #1,2019-06-24,2019-06-25,Kreyenhagen,K-05,Complete,Douglas Thiel
+793325,Sulfur #1,2019-06-24,2019-06-25,Kreyenhagen,K-04,Complete,Wayne Pricolo
+793325,Sulfur #1,2019-06-24,2019-06-25,Kreyenhagen,K-04,Complete,Douglas Thiel
 793283,Admire,2019-06-26,None Set,Pick Anderson,P-13W,To Do,Wayne Pricolo
 793283,Admire,2019-06-26,None Set,Pick Anderson,P-12,To Do,Wayne Pricolo
 793283,Admire,2019-06-26,None Set,Kreyenhagen,K-07,To Do,Wayne Pricolo
@@ -203,7 +633,7 @@ Job Id,Activity Name,Date Due,Date Completed,Property,Paddock,Job Status,Activit
 792718,Tomato 12hr drip no fert,None Set,2019-06-18,Delta Ranch,D-10,Complete,Alvaro Rualacava
 792716,Sprinklers Irrigation 2hrs,None Set,2019-06-19,Delta Ranch,D-18 Block #12,Complete,Jeronimo Torres Rosales
 792715,Sprinklers Irrigation 2hrs,None Set,2019-06-19,Delta Ranch,D-19 Block #10,Complete,Jeronimo Torres Rosales
-792689,Furrow Irrigation,None Set,2019-06-22,Pick Anderson,P-09,Complete,John Palazzo
+792689,Furrow Irrigation,None Set,2019-06-22,Pick Anderson,P-09,In Progress,John Palazzo
 792688,Furrow Irrigation,None Set,2019-06-19,Pick Anderson,P-46,Complete,John Palazzo
 792687,Furrow Irrigation,None Set,2019-06-24,Pick Anderson,P-44,Complete,John Palazzo
 792686,12 hr . Mainline irr.,None Set,2019-06-24,Pick Anderson,P-31,Complete,John Palazzo
@@ -225,11 +655,15 @@ Job Id,Activity Name,Date Due,Date Completed,Property,Paddock,Job Status,Activit
 792415,Coragen,2019-06-20,2019-06-22,Delta Ranch,D-14,Complete,Douglas Thiel
 792415,Coragen,2019-06-20,2019-06-22,Delta Ranch,D-12,Complete,Wayne Pricolo
 792415,Coragen,2019-06-20,2019-06-22,Delta Ranch,D-12,Complete,Douglas Thiel
-792409,Platinum,2019-06-20,None Set,Delta Ranch,D-17,To Do,Wayne Pricolo
-792398,Sulfur,2019-06-19,None Set,Delta Ranch,D-17,To Do,Wayne Pricolo
-792398,Sulfur,2019-06-19,None Set,Delta Ranch,D-14,To Do,Wayne Pricolo
-792398,Sulfur,2019-06-19,None Set,Delta Ranch,D-12,To Do,Wayne Pricolo
-792377,24 hr. Irrigation w/can-17,None Set,2019-06-19,Pick Anderson,P-17,In Progress,John Palazzo
+792409,Platinum,None Set,2019-06-28,Delta Ranch,D-17,Complete,Alvaro Rualacava
+792409,Platinum,2019-06-20,2019-06-28,Delta Ranch,D-17,Complete,Wayne Pricolo
+792398,Sulfur,2019-06-19,2019-06-25,Delta Ranch,D-17,Complete,Wayne Pricolo
+792398,Sulfur,2019-06-19,2019-06-25,Delta Ranch,D-17,Complete,Douglas Thiel
+792398,Sulfur,2019-06-19,2019-06-25,Delta Ranch,D-14,Complete,Wayne Pricolo
+792398,Sulfur,2019-06-19,2019-06-25,Delta Ranch,D-14,Complete,Douglas Thiel
+792398,Sulfur,2019-06-19,2019-06-25,Delta Ranch,D-12,Complete,Wayne Pricolo
+792398,Sulfur,2019-06-19,2019-06-25,Delta Ranch,D-12,Complete,Douglas Thiel
+792377,24 hr. Irrigation w/can-17,None Set,2019-06-19,Pick Anderson,P-17,Complete,John Palazzo
 792376,Furrow Irrigation,None Set,2019-06-18,Pick Anderson,P-01W,In Progress,John Palazzo
 792375,Furrow Irrigation,None Set,2019-06-19,Pick Anderson,P-01E,Complete,John Palazzo
 792288,Dipel/Fertilizer,2019-06-20,2019-06-21,Las Animas,L-02,Complete,Wayne Pricolo
@@ -267,8 +701,10 @@ Job Id,Activity Name,Date Due,Date Completed,Property,Paddock,Job Status,Activit
 791550,4 hrs irr,None Set,2019-06-16,Pick Anderson,P-18,Complete,Sergio De La Torre Gonzalez
 791550,4 hrs irr,None Set,2019-06-16,Pick Anderson,P-16W,Complete,Sergio De La Torre Gonzalez
 791550,4 hrs irr,None Set,2019-06-16,Pick Anderson,P-16E,Complete,Sergio De La Torre Gonzalez
-791486,Lygus/Pix,2019-06-19,None Set,Hereford,H-23,To Do,Wayne Pricolo
-791486,Lygus/Pix,2019-06-19,None Set,Delta Ranch,D-28,To Do,Wayne Pricolo
+791486,Lygus/Pix,None Set,2019-06-28,Hereford,H-23,Complete,Ricardo Ruvalcaba
+791486,Lygus/Pix,None Set,2019-06-25,Delta Ranch,D-28,Complete,Ricardo Ruvalcaba
+791486,Lygus/Pix,2019-06-19,2019-06-28,Hereford,H-23,Complete,Wayne Pricolo
+791486,Lygus/Pix,2019-06-19,2019-06-28,Delta Ranch,D-28,Complete,Wayne Pricolo
 790741,Coragen/Potassium Nitrate,2019-06-19,2019-06-22,Pick Anderson,P-42,Complete,Wayne Pricolo
 790741,Coragen/Potassium Nitrate,2019-06-19,2019-06-22,Pick Anderson,P-42,Complete,Douglas Thiel
 790741,Coragen/Potassium Nitrate,2019-06-19,2019-06-22,Pick Anderson,P-38,Complete,Wayne Pricolo
@@ -370,18 +806,22 @@ Job Id,Activity Name,Date Due,Date Completed,Property,Paddock,Job Status,Activit
 789742,Insecticide,2019-06-17,None Set,Las Animas,L-04,To Do,Wayne Pricolo
 789722,Miticide,None Set,2019-06-19,Las Animas,L-37,Complete,Ricardo Ruvalcaba
 789722,Miticide,2019-06-17,2019-06-19,Las Animas,L-37,Complete,Wayne Pricolo
-789666,Lygus/Pix,None Set,2019-06-22,Delta Ranch,D-03,In Progress,Ricardo Ruvalcaba
-789666,Lygus/Pix,2019-06-17,None Set,Pick Anderson,P-08,To Do,Wayne Pricolo
-789666,Lygus/Pix,2019-06-17,None Set,Lone Tree,T-08,To Do,Wayne Pricolo
-789666,Lygus/Pix,2019-06-17,None Set,Lone Tree,T-07,To Do,Wayne Pricolo
-789666,Lygus/Pix,2019-06-17,None Set,Lone Tree,T-03,To Do,Wayne Pricolo
-789666,Lygus/Pix,2019-06-17,None Set,Lone Tree,T-02,To Do,Wayne Pricolo
-789666,Lygus/Pix,2019-06-17,None Set,Lone Tree,T-01,To Do,Wayne Pricolo
-789666,Lygus/Pix,2019-06-17,None Set,Las Animas,L-21,To Do,Wayne Pricolo
-789666,Lygus/Pix,2019-06-17,None Set,Hereford,H-25S,To Do,Wayne Pricolo
-789666,Lygus/Pix,2019-06-17,None Set,Hereford,H-25N,To Do,Wayne Pricolo
-789666,Lygus/Pix,2019-06-17,None Set,Hereford,H-24,To Do,Wayne Pricolo
-789666,Lygus/Pix,2019-06-17,None Set,Delta Ranch,D-03,To Do,Wayne Pricolo
+789666,Lygus/Pix,None Set,2019-06-25,Hereford,H-25S,Complete,Ricardo Ruvalcaba
+789666,Lygus/Pix,None Set,2019-06-24,Pick Anderson,P-08,Complete,Ricardo Ruvalcaba
+789666,Lygus/Pix,None Set,2019-06-24,Las Animas,L-21,Complete,Ricardo Ruvalcaba
+789666,Lygus/Pix,None Set,2019-06-23,Lone Tree,T-08,Complete,Ricardo Ruvalcaba
+789666,Lygus/Pix,None Set,2019-06-22,Lone Tree,T-07,Complete,Ricardo Ruvalcaba
+789666,Lygus/Pix,None Set,2019-06-22,Lone Tree,T-03,Complete,Ricardo Ruvalcaba
+789666,Lygus/Pix,None Set,2019-06-22,Lone Tree,T-02,Complete,Ricardo Ruvalcaba
+789666,Lygus/Pix,None Set,2019-06-22,Lone Tree,T-01,Complete,Ricardo Ruvalcaba
+789666,Lygus/Pix,None Set,2019-06-22,Delta Ranch,D-03,Complete,Ricardo Ruvalcaba
+789666,Lygus/Pix,2019-06-17,2019-06-24,Pick Anderson,P-08,Complete,Wayne Pricolo
+789666,Lygus/Pix,2019-06-17,2019-06-24,Lone Tree,T-08,Complete,Wayne Pricolo
+789666,Lygus/Pix,2019-06-17,2019-06-24,Lone Tree,T-07,Complete,Wayne Pricolo
+789666,Lygus/Pix,2019-06-17,2019-06-24,Lone Tree,T-03,Complete,Wayne Pricolo
+789666,Lygus/Pix,2019-06-17,2019-06-24,Lone Tree,T-02,Complete,Wayne Pricolo
+789666,Lygus/Pix,2019-06-17,2019-06-24,Lone Tree,T-01,Complete,Wayne Pricolo
+789666,Lygus/Pix,2019-06-17,2019-06-24,Delta Ranch,D-03,Complete,Wayne Pricolo
 789384,Cotton irrigation  flood,None Set,2019-06-15,Hereford,H-23,Complete,Uli Urenda Sanchez
 789017,Tomato 12hr drip no fert,None Set,2019-06-16,Delta Ranch,D-14,Complete,Alvaro Rualacava
 789016,Tomato 12hr drip no fert,None Set,2019-06-16,Delta Ranch,D-12,Complete,Alvaro Rualacava
@@ -499,13 +939,14 @@ Job Id,Activity Name,Date Due,Date Completed,Property,Paddock,Job Status,Activit
 787462,Insecticide/Foliar Fert.,2019-06-14,2019-06-18,Kreyenhagen,K-07,Complete,Wayne Pricolo
 787462,Insecticide/Foliar Fert.,2019-06-14,2019-06-18,Kreyenhagen,K-05,Complete,Wayne Pricolo
 787462,Insecticide/Foliar Fert.,2019-06-14,2019-06-18,Kreyenhagen,K-04,Complete,Wayne Pricolo
-787452,Platinum,2019-06-20,None Set,Hereford,H-15,To Do,Wayne Pricolo
-787452,Platinum,2019-06-20,None Set,Hereford,H-14,To Do,Wayne Pricolo
-787452,Platinum,2019-06-20,None Set,Hereford,H-13,To Do,Wayne Pricolo
-787452,Platinum,2019-06-20,None Set,Hereford,H-12,To Do,Wayne Pricolo
-787452,Platinum,2019-06-20,None Set,Hereford,H-11,To Do,Wayne Pricolo
-787452,Platinum,2019-06-20,None Set,Hereford,H-10,To Do,Wayne Pricolo
-787452,Platinum,2019-06-20,None Set,Hereford,H-09,To Do,Wayne Pricolo
+787452,Platinum,None Set,2019-06-20,Hereford,H-09,Complete,Uli Urenda Sanchez
+787452,Platinum,2019-06-20,None Set,Hereford,H-15,Complete,Wayne Pricolo
+787452,Platinum,2019-06-20,None Set,Hereford,H-14,Complete,Wayne Pricolo
+787452,Platinum,2019-06-20,None Set,Hereford,H-13,Complete,Wayne Pricolo
+787452,Platinum,2019-06-20,None Set,Hereford,H-12,Complete,Wayne Pricolo
+787452,Platinum,2019-06-20,None Set,Hereford,H-11,Complete,Wayne Pricolo
+787452,Platinum,2019-06-20,None Set,Hereford,H-10,Complete,Wayne Pricolo
+787452,Platinum,2019-06-20,None Set,Hereford,H-09,Complete,Wayne Pricolo
 787389,12 hrs irr,None Set,2019-06-14,Pick Anderson,P-38,Complete,Sergio De La Torre Gonzalez
 787389,12 hrs irr,None Set,2019-06-14,Pick Anderson,P-37,Complete,Sergio De La Torre Gonzalez
 787385,4 hrs irr,None Set,2019-06-15,Pick Anderson,P-07,Complete,Sergio De La Torre Gonzalez
@@ -558,6 +999,7 @@ Job Id,Activity Name,Date Due,Date Completed,Property,Paddock,Job Status,Activit
 786964,Tomato 12hr drip no fert,None Set,2019-06-12,Delta Ranch,D-11,Complete,Alvaro Rualacava
 786964,Tomato 12hr drip no fert,None Set,2019-06-12,Delta Ranch,D-05S,Complete,Alvaro Rualacava
 786784,Fertilizer,2019-06-12,None Set,Las Animas,L-07EN Center,To Do,Wayne Pricolo
+786775,UN-32,None Set,2019-06-26,Lone Tree,T-11,In Progress,Alvaro Rualacava
 786775,UN-32,2019-06-13,None Set,Lone Tree,T-11,To Do,Wayne Pricolo
 786775,UN-32,2019-06-13,None Set,Lone Tree,T-06,To Do,Wayne Pricolo
 786655,12 hrs irr,None Set,2019-06-12,Pick Anderson,P-42,Complete,Sergio De La Torre Gonzalez
@@ -807,6 +1249,8 @@ Job Id,Activity Name,Date Due,Date Completed,Property,Paddock,Job Status,Activit
 781530,Watermelon 8hr no fert,None Set,2019-06-05,Delta Ranch,D-18 Block #2,Complete,Alvaro Rualacava
 781530,Watermelon 8hr no fert,None Set,2019-06-05,Delta Ranch,D-18 Block #1,Complete,Alvaro Rualacava
 781487,Sprinklers Irrigation 24hrs/set,None Set,2019-06-10,Delta Ranch,D-03,Complete,Jeronimo Torres Rosales
+781472,Quadris/Regalia #2,None Set,2019-06-25,Delta Ranch,D-19 Block #7,In Progress,Alvaro Rualacava
+781472,Quadris/Regalia #2,None Set,2019-06-25,Delta Ranch,D-19 Block #6,In Progress,Alvaro Rualacava
 781472,Quadris/Regalia #2,None Set,2019-06-12,Delta Ranch,D-19 Block #5,In Progress,Alvaro Rualacava
 781472,Quadris/Regalia #2,None Set,2019-06-12,Delta Ranch,D-19 Block #4,In Progress,Alvaro Rualacava
 781472,Quadris/Regalia #2,None Set,2019-06-12,Delta Ranch,D-18 Block #7,In Progress,Alvaro Rualacava
@@ -1331,8 +1775,8 @@ Job Id,Activity Name,Date Due,Date Completed,Property,Paddock,Job Status,Activit
 771500,Fungicide,2019-05-24,2019-05-24,Las Animas,L-02,Complete,Douglas Thiel
 771500,Fungicide,2019-05-24,2019-05-24,Las Animas,L-01,Complete,Wayne Pricolo
 771500,Fungicide,2019-05-24,2019-05-24,Las Animas,L-01,Complete,Douglas Thiel
-771468,Planting insecticide,2019-05-24,None Set,Las Animas,L-37,To Do,Wayne Pricolo
-771468,Planting insecticide,2019-05-24,2019-05-25,Las Animas,L-37,In Progress,Gary Sousa
+771468,Planting insecticide,2019-05-24,2019-05-25,Las Animas,L-37,Complete,Wayne Pricolo
+771468,Planting insecticide,2019-05-24,2019-05-25,Las Animas,L-37,Complete,Gary Sousa
 771440,Weeding Crew 1st Pass,None Set,2019-05-22,Delta Ranch,D-18 Block #3,Complete,Alvaro Rualacava
 771180,1st culivation,None Set,2019-05-22,Hereford,H-08,Complete,Gary Sousa
 771118,Roundup,2019-05-23,None Set,Delta Ranch,D-01,To Do,Emery Silberman
